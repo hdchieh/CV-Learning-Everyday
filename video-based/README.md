@@ -17,7 +17,7 @@
 
 # 2. 相关研究
 
-## 2.1 [经典方法](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/2-1%E7%BB%8F%E5%85%B8%E6%96%B9%E6%B3%95.md)
+## [2.1 经典方法](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/2-1%E7%BB%8F%E5%85%B8%E6%96%B9%E6%B3%95.md)
 
 DT和iDT方法是深度学习方法成熟之前效果最好的经典方法。
 
