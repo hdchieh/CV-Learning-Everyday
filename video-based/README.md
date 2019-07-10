@@ -17,7 +17,7 @@
 
 # 2. 相关研究
 
-## 2.1 经典方法
+## 2.1 [经典方法](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/2-1%E7%BB%8F%E5%85%B8%E6%96%B9%E6%B3%95.md)
 
 DT和iDT方法是深度学习方法成熟之前效果最好的经典方法。
 
@@ -25,7 +25,7 @@ DT和iDT方法是深度学习方法成熟之前效果最好的经典方法。
 
 [H. Wang and C. Schmid. Action recognition with improved trajectories. ICCV'13.](http://lear.inrialpes.fr/people/wang/download/iccv13_poster_final.pdf)
 
-## 2.2 逐帧处理融合
+## [2.2 逐帧处理融合](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/2-2%E9%80%90%E5%B8%A7%E5%A4%84%E7%90%86%E8%9E%8D%E5%90%88.md)
 
 这类方法把视频看作一系列图像的集合，每帧图像单独提取特征，再融合它们的深度特征。
 

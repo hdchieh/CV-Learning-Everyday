@@ -6,5 +6,5 @@
 
 ## 2. 图像类
 
-## 3. 视频类
+## 3. [视频类](https://github.com/huuuuusy/CV-Learning-Everyday/tree/master/video-based)
 
