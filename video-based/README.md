@@ -45,6 +45,54 @@ DT和iDT方法是深度学习方法成熟之前效果最好的经典方法。
 
 ## 2.3 ConvLSTM
 
+这类方法是用CNN提取每帧图像的特征，之后用LSTM挖掘它们之间的时序关系。
+
+[J. Y.-H. Ng, et al. Beyond short snippets: Deep networks for video classification. CVPR'15.](https://arxiv.org/abs/1503.08909)
+
+[J. Donahue, et al. Long-term recurrent convolutional networks for visual recognition and description. CVPR'15.](https://arxiv.org/abs/1411.4389)
+
+[W. Du, et al. RPAN: An end-to-end recurrent pose-attention network for action recognition in videos. ICCV'17.](https://www.sciencedirect.com/science/article/pii/S0031320319301098)
+
+## 2.4 3D卷积
+
+把视频划分成很多固定长度的片段(clip)，相比2D卷积，3D卷积可以提取连续帧之间的运动信息。
+
+[M. Baccouche, et al. Sequential deep learning for human action recognition. HBU Workshop'11.](https://liris.cnrs.fr/Documents/Liris-5228.pdf)
+
+[S. Ji, et al. 3D convolutional neural networks for human action recognition. TPAMI'13.](https://ieeexplore.ieee.org/document/6165309/)
+
+[D. Tran, et al. Learning spatio-temporal features with 3D convolutional networks. ICCV'15.](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf)
+
+[L. Sun, et al. Human action recognition using factorized spatio-temporal convolutional networks. ICCV'15.](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Sun_Human_Action_Recognition_ICCV_2015_paper.pdf)
+
+[J. Carreira and A. Zisserman. Quo vadis, action recognition? A new model and the Kinetics dataset. CVPR'17.](https://arxiv.org/pdf/1705.07750.pdf)
+
+[Z. Qiu, et al. Learning spatio-temporal representation with pseudo-3D residual networks. ICCV'17.](http://openaccess.thecvf.com/content_ICCV_2017/papers/Qiu_Learning_Spatio-Temporal_Representation_ICCV_2017_paper.pdf)
+
+[D. Tran, et al. A closer look at spatio-temporal convolutions for action recognition. CVPR'18.](https://arxiv.org/pdf/1711.11248.pdf)
+
+[C. Lea, et al. Temporal convolutional networks for action segmentation and detection. CVPR'17.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lea_Temporal_Convolutional_Networks_CVPR_2017_paper.pdf)
+
+[L. Wang, et al. Appearance-and-relation networks for video classfication. CVPR'18.](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Appearance-and-Relation_Networks_for_CVPR_2018_paper.pdf)
+
+[K. Hara, et al. Can spatio-temporal 3D CNNs retrace the history of 2D CNNs and ImageNet? CVPR'18.](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hara_Can_Spatiotemporal_3D_CVPR_2018_paper.pdf)
+
+[X. Wang, et al. Non-local neural networks. CVPR'18.](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf)
+
+## 2.5 Two-stream
+
+[K. Simonyan and A. Zisserman. Two-stream convolutional networks for action recognition in videos. NIPS'14.](https://arxiv.org/abs/1406.2199)
+
+[L. Wang, et al. Action recognition with trajectory-pooled deep-convolutional descriptors. CVPR'15.](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Action_Recognition_With_2015_CVPR_paper.pdf)
+
+[C. Feichtenhofer, et al. Convolutional two-stream network fusion for video action recognition. CVPR'16.](https://arxiv.org/pdf/1604.06573.pdf)
+
+[Spatiotemporal Residual Networks for Video Action Recognition](https://arxiv.org/abs/1611.02155)
+
+[C. Feichtenhofer, et al. Spatio-temporal multiplier networks for video action recognition. CVPR'17.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Feichtenhofer_Spatiotemporal_Multiplier_Networks_CVPR_2017_paper.pdf)
+
+
+
 ## 参考
 
 以上内容参考资料：
