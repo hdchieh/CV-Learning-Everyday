@@ -1,4 +1,4 @@
-# 视频类任务
+# 视频理解类任务
 
 ## 1. 数据集
 
@@ -15,9 +15,9 @@
 |[YouTube-8M](https://research.google.com/youtube8m/)|【CoRR2016】[YouTube-8M: A large-scale video classification benchmark](https://arxiv.org/pdf/1609.08675.pdf)|4716类、7M视频、共450,000小时。不论是下载还是训练都很困难。|
 |[Something-something](https://20bn.com/datasets/something-something)|【ICCV2017】[The "something something" video database for learning and evaluating visual common sense](https://arxiv.org/abs/1706.04261)|174类、108,000视频、每个视频2到6秒。和Kinetics不同，Something-something数据集需要更加细粒度、更加底层交互动作的区分，例如“从左向右推”和“从右向左推”。|
 
-# 2. 相关研究
+## 2. 相关研究
 
-## [2.1 经典方法](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/2-1%E7%BB%8F%E5%85%B8%E6%96%B9%E6%B3%95.md)
+### [2.1 经典方法](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/001%E7%BB%8F%E5%85%B8%E6%96%B9%E6%B3%95.md)
 
 DT和iDT方法是深度学习方法成熟之前效果最好的经典方法。
 
@@ -25,7 +25,7 @@ DT和iDT方法是深度学习方法成熟之前效果最好的经典方法。
 
 [H. Wang and C. Schmid. Action recognition with improved trajectories. ICCV'13.](http://lear.inrialpes.fr/people/wang/download/iccv13_poster_final.pdf)
 
-## [2.2 逐帧处理融合](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/2-2%E9%80%90%E5%B8%A7%E5%A4%84%E7%90%86%E8%9E%8D%E5%90%88.md)
+### [2.2 逐帧处理融合](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/002%E9%80%90%E5%B8%A7%E5%A4%84%E7%90%86%E8%9E%8D%E5%90%88.md)
 
 这类方法把视频看作一系列图像的集合，每帧图像单独提取特征，再融合它们的深度特征。
 
@@ -43,7 +43,7 @@ DT和iDT方法是深度学习方法成熟之前效果最好的经典方法。
 
 [M. Zolfaghari, et al. ECO: Efficient Convolutional network for Online video understanding. arXiv:1804.09066.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mohammadreza_Zolfaghari_ECO_Efficient_Convolutional_ECCV_2018_paper.pdf)
 
-## 2.3 ConvLSTM
+### [2.3 ConvLSTM](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/003ConvLSTM.md)
 
 这类方法是用CNN提取每帧图像的特征，之后用LSTM挖掘它们之间的时序关系。
 
@@ -53,7 +53,7 @@ DT和iDT方法是深度学习方法成熟之前效果最好的经典方法。
 
 [W. Du, et al. RPAN: An end-to-end recurrent pose-attention network for action recognition in videos. ICCV'17.](https://www.sciencedirect.com/science/article/pii/S0031320319301098)
 
-## 2.4 3D卷积
+### [2.4 3D卷积](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/0043D%E5%8D%B7%E7%A7%AF.md)
 
 把视频划分成很多固定长度的片段(clip)，相比2D卷积，3D卷积可以提取连续帧之间的运动信息。
 
@@ -79,7 +79,7 @@ DT和iDT方法是深度学习方法成熟之前效果最好的经典方法。
 
 [X. Wang, et al. Non-local neural networks. CVPR'18.](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf)
 
-## 2.5 Two-stream
+### [2.5 Two-stream](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/005Two-stream.md)
 
 [K. Simonyan and A. Zisserman. Two-stream convolutional networks for action recognition in videos. NIPS'14.](https://arxiv.org/abs/1406.2199)
 
@@ -91,7 +91,33 @@ DT和iDT方法是深度学习方法成熟之前效果最好的经典方法。
 
 [C. Feichtenhofer, et al. Spatio-temporal multiplier networks for video action recognition. CVPR'17.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Feichtenhofer_Spatiotemporal_Multiplier_Networks_CVPR_2017_paper.pdf)
 
+[L. Wang, et al. Temporal segment networks: Towards good practices for deep action recognition. ECCV'16.](https://wanglimin.github.io/papers/WangXWQLTV_ECCV16.pdf)
 
+[Z. Lan, et al. Deep local video feature for action recognition. CVPR'17.](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w14/papers/Lan_Deep_Local_Video_CVPR_2017_paper.pdf)
+
+[R. Girdhar, et al. ActionVLAD: Learning spatio-temporal aggregation for action recognition. CVPR'17.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Girdhar_ActionVLAD_Learning_Spatio-Temporal_CVPR_2017_paper.pdf)
+
+[G. A. Sigurdsson, et al. Asynchronous temporal fields for action recognition. CVPR'17.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sigurdsson_Asynchronous_Temporal_Fields_CVPR_2017_paper.pdf)
+
+[W. Zhu, et al. A key volume mining deep framework for action recognition. CVPR'16.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_A_Key_Volume_CVPR_2016_paper.pdf)
+
+[Y. Wang, et al. Spatio-temporal pyramid network for video action recognition. CVPR'16.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Spatiotemporal_Pyramid_Network_CVPR_2017_paper.pdf)
+
+[A. Diba, et al. Deep temporal linear encoding networks. CVPR'17.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Diba_Deep_Temporal_Linear_CVPR_2017_paper.pdf)
+
+[R. Girdhar and D. Ramanan. Attentional pooling for action recognition. NIPS'17.](https://rohitgirdhar.github.io/AttentionalPoolingAction/)
+
+[I. C. Duta, et al. Spatio-temporal vector of locally max-pooled features for action recognition in videos. CVPR'17.](https://www.researchgate.net/publication/315841539_Spatio-Temporal_Vector_of_Locally_Max_Pooled_Features_for_Action_Recognition_in_Videos)
+
+[C.-Y. Wu, et al. Compressed video action recognition. CVPR'18.](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Compressed_Video_Action_CVPR_2018_paper.pdf)
+
+[P. Weinzaepfel, et al. DeepFlow: Large displacement optical flow with deep matching. ICCV'13.](https://hal.inria.fr/hal-00873592/document/)
+
+[A. Dosovitskiy, et al. FlowNet: Learning optical flow with convolutional networks. ICCV'15.](http://openaccess.thecvf.com/content_iccv_2015/papers/Dosovitskiy_FlowNet_Learning_Optical_ICCV_2015_paper.pdf)
+
+[E. Ilg, et al. FlowNet 2.0: Evolution of optical flow estimation with deep networks. CVPR'17.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ilg_FlowNet_2.0_Evolution_CVPR_2017_paper.pdf)
+
+### 2.6 其他视频理解任务
 
 ## 参考
 
