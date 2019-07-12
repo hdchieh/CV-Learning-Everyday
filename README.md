@@ -14,4 +14,9 @@
 
 ### [3.3 Video summarization](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T003-Video%20summarization.md)
 
-### [3.4 Video object detection]
+### [3.4 Video object detection](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T004-Video%20object%20detection.md)
+
+### [3.5 Video prediction]
+
+### [3.6 Video question answer & retrieval & search & reasoning]
+

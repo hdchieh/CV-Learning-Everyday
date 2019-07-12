@@ -57,6 +57,12 @@ Extending state-of-the-art object detectors from image to video is challenging. 
 
 **Abstract**
 
-There has been significant progresses for image object detection in recent years. Nevertheless, video object detection has received little attention, although it is more challenging and more important in practical scenarios. 
+There has been significant progresses for image object detection in recent years. Nevertheless, video object detection has received little attention, although it is more challenging and more important in practical scenarios.
 
 Built upon the recent works, this work proposes a unified approach based on the principle of multi-frame end-to-end learning of features and cross-frame motion. Our approach extends prior works with three new techniques and steadily pushes forward the performance envelope (speed-accuracy tradeoff), towards high performance video object detection.
+
+文章在前两项工作的基础上，提出了一种基于多帧端到端特征和跨框架运动学习原理的统一方法。
+
+![](images/0046.png)
+
+其中a代表DFF（deep feature flow），b 代表FGFA（flow guided feature aggregation) 。右侧代表他们提出的3种不同的方法。
