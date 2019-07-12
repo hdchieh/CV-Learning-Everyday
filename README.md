@@ -8,4 +8,4 @@
 
 ## 3. 视频类
 
-### [3-1视频理解](https://github.com/huuuuusy/CV-Learning-Everyday/tree/master/video-based)
+### [3-1视频理解类任务](https://github.com/huuuuusy/CV-Learning-Everyday/tree/master/video-based)
