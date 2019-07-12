@@ -7,6 +7,7 @@
 ![](images/0038.png)
 
 **Abstract**
+
 This paper introduces a novel variant of video summarization, namely building a summary that depends on the particular aspect of a video the viewer focuses on. We refer to this as viewpoint. To infer what the desired viewpoint may be, we assume that several other videos are available, especially groups of videos, e.g., as folders on a person's phone or laptop. The semantic similarity between videos in a group vs. the dissimilarity between groups is used to produce viewpoint-specific summaries. For considering similarity as well as avoiding redundancy, output summary should be (A) diverse, (B) representative of videos in the same group, and (C) discriminative against videos in the different groups. To satisfy these requirements (A)-(C) simultaneously, we proposed a novel video summarization method from multiple groups of videos. Inspired by Fisher's discriminant criteria, it selects summary by optimizing the combination of three terms (a) inner-summary, (b) inner-group, and (c) between-group variances defined on the feature representation of summary, which can simply represent (A)-(C). Moreover, we developed a novel dataset to investigate how well the generated summary reflects the underlying viewpoint. Quantitative and qualitative experiments conducted on the dataset demonstrate the effectiveness of proposed method.
 
 本文介绍一种新的视频摘要变体--视点：即构建一个摘要，该摘要取决于观众关注的视频的特定方面。为了推断所需的视点，假设还有其他几个视频或者视频组可用。组中视频之间的语义相似性与组之间的不相似性用于产生特定于视点的摘要。为了考虑相似性以及避免冗余，输出摘要应该是（A）多样的，（B）代表同一组中的视频，以及（C）区分不同组中的视频。为了同时满足这些要求（A） - （C），我们从多组视频中提出了一种新颖的视频摘要方法。
@@ -20,6 +21,7 @@ This paper introduces a novel variant of video summarization, namely building a 
 ![](images/0039.png)
 
 **Abstract**
+
 Although video summarization has achieved great success in recent years, few approaches have realized the influence of video structure on the summarization results. As we know, the video data follow a hierarchical structure, i.e., a video is composed of shots, and a shot is composed of several frames. Generally, shots provide the activity-level information for people to understand the video content. While few existing summarization approaches pay attention to the shot segmentation procedure. They generate shots by some trivial strategies, such as fixed length segmentation, which may destroy the underlying hierarchical structure of video data and further reduce the quality of generated summaries. To address this problem, we propose a structure adaptive video summarization approach that integrates shot segmentation and video summarization into a Hierarchical Structure-Adaptive RNN, denoted as HSA-RNN. We evaluate the proposed approach on four popular datasets, i.e., SumMe, TVsum, CoSum and VTW. The experimental results have demonstrated the effectiveness of HSA-RNN in the video summarization task.
 
 近年来视频摘要取得了巨大成功，但很少有方法能够实现视频结构对摘要结果的影响。
@@ -35,6 +37,7 @@ Although video summarization has achieved great success in recent years, few app
 ![](images/0040.png)
 
 **Abstract**
+
 For many applications with limited computation, communication, storage and energy resources, there is an imperative need of computer vision methods that could select an informative subset of the input video for efficient processing at or near real time. In the literature, there are two relevant groups of approaches: generating a trailer for a video or fast-forwarding while watching/processing the video. The first group is supported by video summarization techniques, which require processing of the entire video to select an important subset for showing to users. In the second group, current fast-forwarding methods depend on either manual control or automatic adaptation of playback speed, which often do not present an accurate representation and may still require processing of every frame. In this paper, we introduce FastForwardNet (FFNet), a reinforcement learning agent that gets inspiration from video summarization and does fast-forwarding differently. It is an online framework that automatically fast-forwards a video and presents a representative subset of frames to users on the fly. It does not require processing the entire video, but just the portion that is selected by the fast-forward agent, which makes the process very computationally efficient. The online nature of our proposed method also enables the users to begin fast-forwarding at any point of the video. Experiments on two real-world datasets demonstrate that our method can provide better representation of the input video with much less processing requirement.
 
 许多应用需要选择输入视频的信息子集同时达到实时或接近实时的有效处理。有两组相关的方法：在观看/处理视频时为视频生成预告片或快进。第一组由视频摘要技术处理整个视频以选择用于向用户显示的重要子集。在第二组中，当前的快进方法取决于手动控制或自动调整回放速度，其通常无法呈现精确的表示结果并可能仍需处理每个帧。
@@ -46,6 +49,8 @@ FFNet的在线性质还使用户能够在视频的任何点开始快进，在两
 [A Memory Network Approach for Story-based Temporal Summarization of 360° Videos, CVPR'18](https://arxiv.org/abs/1805.02838)
 
 ![](images/0041.png)
+
+**Abstract**
 
 We address the problem of story-based temporal summarization of long 360° videos. We propose a novel memory network model named Past-Future Memory Network (PFMN), in which we first compute the scores of 81 normal field of view (NFOV) region proposals cropped from the input 360° video, and then recover a latent, collective summary using the network with two external memories that store the embeddings of previously selected subshots and future candidate subshots. Our major contributions are two-fold. First, our work is the first to address story-based temporal summarization of 360° videos. Second, our model is the first attempt to leverage memory networks for video summarization tasks. For evaluation, we perform three sets of experiments. First, we investigate the view selection capability of our model on the Pano2Vid dataset. Second, we evaluate the temporal summarization with a newly collected 360° video dataset. Finally, we experiment our model's performance in another domain, with image-based storytelling VIST dataset. We verify that our model achieves state-of-the-art performance on all the tasks.
 
