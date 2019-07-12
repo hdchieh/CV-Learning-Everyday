@@ -103,5 +103,3 @@ Wu等人通过将运动向量追溯到I帧来去除P帧对P帧的依赖，之后
 [E. Ilg, et al. FlowNet 2.0: Evolution of optical flow estimation with deep networks. CVPR'17.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ilg_FlowNet_2.0_Evolution_CVPR_2017_paper.pdf)
 
 由于经典光流算法很慢，因此有工作致力于使用深度神经网络计算光流。DeepFlow在不同粒度上进行聚合和匹配，FlowNet基于类似于视觉跟踪的思路使用互相关滤波综合两张图的深度特征最终生成光流。由于标记数据不足，FlowNet使用人工合成Chairs数据集进行训练。FlowNet 2.0的贡献有三点。(1). 发现如何进行训练对结果影响至关重要，先在简单的Chairs数据集上训练、再在更真实的Things3D上训练会比混合两个数据集一起训练效果更好。(2). 多个子网络堆叠，并用中间光流结果对图像进行扭曲输入中间子网络。(3). 有一个子网络专注于微小运动。
-
-
