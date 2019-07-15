@@ -68,3 +68,7 @@ There is growing interest in artificial intelligence to build socially intellige
 文章提出了一种用图查询视频和文本的方法，并表明：1）图包含丰富而充分的信息，用于汇总和定位每个场景; 2）子图允许模型在抽象层面描述情境并检索多个语义相关的情况。
 
 [项目主页](http://moviegraphs.cs.toronto.edu/)
+
+## 参考
+
+[【专知】【论文推荐】最新7篇视觉问答（VQA）相关论文—解释、读写记忆网络、逆视觉问答、视觉推理、可解释性、注意力机制、计数](https://cloud.tencent.com/developer/article/1086325)

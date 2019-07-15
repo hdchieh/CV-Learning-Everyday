@@ -1,4 +1,4 @@
-# 视频理解
+# Video understanding
 
 ## 相关研究
 
@@ -107,3 +107,5 @@ DT和iDT方法是深度学习方法成熟之前效果最好的经典方法。
 ## 参考
 
 [【知乎】视频理解近期研究进展](https://zhuanlan.zhihu.com/p/36330561)
+
+[【知乎】计算机视觉中video understanding领域有什么研究方向和比较重要的成果？](https://www.zhihu.com/question/64021205)

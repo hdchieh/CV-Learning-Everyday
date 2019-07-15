@@ -1,5 +1,17 @@
 # Video object detection
 
+## 介绍
+
+传统的基于图片的目标检测方法已经非常成熟，对于视频目标检测来说，如果视频流按帧一张一张使用图片的目标检测算法来处理会出现以下两类问题：
+
+1. 因为视频流的图片信息具有时间和空间相关性，相邻帧之间的特征提取网络会输出有冗余的特征图信息，会造成没必要的计算浪费。
+
+2. 图片的目标检测算法在目标物体运动模糊，拍摄焦距失调，物体部分遮挡，非刚性物体罕见变形姿态的情况下，很难获得较为准确的结果，而这些情况在视频的拍摄中情况较为多见。
+
+视频目标检测比单张图片检测多了Temporal Context（时间上下文）的信息;不同方法想利用这些Context来解决的问题并不相同。一类方法是关注如何使用这部分信息来**加速Video Detection**。因为相邻帧之间存在大量冗余，如果可以通过一些廉价的办法来加速不损害性能，在实际应用中还是很有意义的。另一类方法是关注这部分信息可以**有效减轻单帧图片检测中由于运动模糊，物体面积过小导致的困难，**从而来提升性能。
+
+## 论文
+
 **[Mobile Video Object Detection with Temporally-Aware Feature Maps, CVPR'18](https://arxiv.org/abs/1711.06368)**
 
 ![](images/0042.png)
@@ -30,6 +42,8 @@ Deep convolutional neutral networks have achieved great success on image recogni
 文章提出深度特征流用于构建快速准确的视频识别框架。 模型仅在稀疏关键帧上运行卷积子网络，并通过流场将其深度特征映射传播到其他帧；由于流量计算相对较快，因此可实现显着的加速。 整个架构的端到端训练显着提高了识别准确性，所用的深度特征流程灵活且通用。
 
 Deep feature flow 用了deep feature （appearance 信息）和 光流（motion 信息）来对视频中的每一帧做建模，它的核心思想是利用指定的关键帧（key frame）和其他帧（current frame）得到关键帧的光流信息。把关键帧送入到deep CNN中得到deep feature，而对于其他帧算出与关键帧的光流，再用光流把关键帧的deep feature propagate （相加，在做双线性差值）到当前帧，这时候就可大大减少计算量，因为非关键帧不用通过CNN计算。对于新得到的特征，接下来就可对其进行不同任务处理，比如分割或者检测。
+
+简要理解，深度特征流方法DFF是一个用来视频识别的快速精确，通用的端到端的框架。在关键帧使用稠密的网络进行检测，同时保存保留了一致性的先前的网络特征，非关键帧使用关键帧的这个网络特征以及稀疏的网络（预测光流）进行检测。
 
 [项目地址](https://github.com/msracver/Deep-Feature-Flow)
 
@@ -66,3 +80,11 @@ Built upon the recent works, this work proposes a unified approach based on the 
 ![](images/0046.png)
 
 其中a代表DFF（deep feature flow），b 代表FGFA（flow guided feature aggregation) 。右侧代表他们提出的3种不同的方法。
+
+[参考博客](https://zhuanlan.zhihu.com/p/37068429)
+
+## 参考
+
+[【GitHub】基于视频的目标检测算法研究](https://github.com/guanfuchen/video_obj)
+
+[【知乎】视频中的目标检测与图像中的目标检测具体有什么区别？](https://www.zhihu.com/question/52185576)

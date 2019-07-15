@@ -1,5 +1,11 @@
 # Video prediction
 
+## 介绍
+
+视频预测是一种从图像序列中学习到未标注的视频数据结构信息的无监督学习，其需要对每个像素都进行预测，并且需要使用一些复杂的损失函数以实现好的效果；此外视频预测还是一种多模式的问题，因为正确的预测还需要很多视频中未给出的潜在的信息。
+
+## 论文
+
 **[Structure Preserving Video Prediction, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Structure_Preserving_Video_CVPR_2018_paper.pdf)**
 
 **Abstract**
@@ -45,3 +51,7 @@ We present a method to extract a video sequence from a single motion-blurred ima
 文章提出的方法可以成功地从单个运动模糊图像中检索清晰图像序列，并且可以很好地适应用不同相机捕获的合成和真实数据集。
 
 [项目地址](https://github.com/MeiguangJin/Learning-to-Extract-a-Video-Sequence-from-a-Single-Motion-Blurred-Image)
+
+## 参考
+
+[【CSDN】基于深度学习的视频预测文献综述](https://blog.csdn.net/weixin_41024483/article/details/88366989)
