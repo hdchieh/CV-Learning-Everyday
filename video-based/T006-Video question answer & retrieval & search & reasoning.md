@@ -1,5 +1,11 @@
 # Video question answer & retrieval & search & reasoning
 
+## 介绍
+
+在视频问答任务中，对给定的问题和图片，视频问答的目的是学习一个模型对问题进行回答。目前用来解决视频问答任务的方法可以分为：分类和序列生成两种。在分类模型中，视频问答任务把答案当作一个个类别，从而将答案生成的任务转换成分类任务。在序列生成模型中，视频问答的输出一般由LSTM来生成。
+
+## 论文
+
 **[Motion-Appearance Co-Memory Networks for Video Question Answering, CVPR'18](https://arxiv.org/abs/1803.10906)**
 
 **Abstract**
