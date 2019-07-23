@@ -13,7 +13,7 @@
 
 **[Appearance-and-Relation Networks for Video Classification, CVPR'18](https://arxiv.org/abs/1711.09125)**
 
-[【项目地址】](https://github.com/wanglimin/ARTNet)
+[【Project Page】](https://github.com/wanglimin/ARTNet)
 [【参考笔记】](https://zhuanlan.zhihu.com/p/32197854)
 
 **Abstract**
@@ -58,7 +58,7 @@ It is often laborious and costly to manually annotate videos for training high-q
 
 **[Learning Latent Super-Events to Detect Multiple Activities in Videos, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Piergiovanni_Learning_Latent_Super-Events_CVPR_2018_paper.pdf)**
 
-[【项目地址】](https://github.com/piergiaj/super-events-cvpr18)
+[【Project Page】](https://github.com/piergiaj/super-events-cvpr18)
 
 **Abstract**
 
@@ -70,9 +70,9 @@ In this paper, we introduce the concept of learning latent super-events from act
 
 **[Compressed Video Action Recognition, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Compressed_Video_Action_CVPR_2018_paper.pdf)**
 
-[【项目地址】](https://github.com/chaoyuaw/pytorch-coviar)
-[【参考博客1】](https://blog.csdn.net/perfects110/article/details/84329491)
-[【参考博客2】](https://blog.csdn.net/Dongjiuqing/article/details/84678962)
+[【Project Page】](https://github.com/chaoyuaw/pytorch-coviar)
+[【Blog(Chinese)1】](https://blog.csdn.net/perfects110/article/details/84329491)
+[【Blog(Chinese)2】](https://blog.csdn.net/Dongjiuqing/article/details/84678962)
 
 **Abstract**
 
@@ -86,7 +86,7 @@ This representation has a higher information density, and we found the training 
 
 **[Video Representation Learning Using Discriminative Pooling, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Video_Representation_Learning_CVPR_2018_paper.pdf)**
 
-[【项目地址】](https://github.com/3xwangDot/SVMP)
+[【Project Page】](https://github.com/3xwangDot/SVMP)
 
 **Abstract**
 
@@ -98,7 +98,7 @@ Popular deep models for action recognition in videos generate independent predic
 
 **[Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition, CVPR'18](https://arxiv.org/abs/1711.11152)**
 
-[【项目地址】](https://github.com/kevin-ssy/Optical-Flow-Guided-Feature)
+[【Project Page】](https://github.com/kevin-ssy/Optical-Flow-Guided-Feature)
 
 **Abstract**
 
@@ -112,7 +112,7 @@ Motion representation plays a vital role in human action recognition in videos. 
 
 **[NeuralNetwork-Viterbi: A Framework for Weakly Supervised Video Learning, CVPR'18 Spotlight](https://arxiv.org/abs/1805.06875)**
 
-[【项目地址】](https://github.com/alexanderrichard/NeuralNetwork-Viterbi)
+[【Project Page】](https://github.com/alexanderrichard/NeuralNetwork-Viterbi)
 
 **Abstract**
 

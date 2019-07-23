@@ -16,7 +16,7 @@
 
 视频摘要任务是从原始视频中提取有意义的片段(shot)或者帧。
 
-[Viewpoint-aware Video Summarization, CVPR'18](https://arxiv.org/abs/1804.02843)
+**[Viewpoint-aware Video Summarization, CVPR'18](https://arxiv.org/abs/1804.02843)**
 
 ![](images/0038.png)
 
@@ -30,9 +30,9 @@ This paper introduces a novel variant of video summarization, namely building a 
 
 此外，作者开发了一个新的数据集来研究生成的摘要如何反映潜在的观点。在数据集上进行的定量和定性实验证明了所提方法的有效性。
 
-[HSA-RNN: Hierarchical Structure-Adaptive RNN for Video Summarization, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_HSA-RNN_Hierarchical_Structure-Adaptive_CVPR_2018_paper.pdf)
+**[HSA-RNN: Hierarchical Structure-Adaptive RNN for Video Summarization, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_HSA-RNN_Hierarchical_Structure-Adaptive_CVPR_2018_paper.pdf)**
 
-[【参考博客】](https://zhuanlan.zhihu.com/p/67510393)
+[【Blog(Chinese)】](https://zhuanlan.zhihu.com/p/67510393)
 
 ![](images/0039.png)
 
@@ -46,7 +46,7 @@ Although video summarization has achieved great success in recent years, few app
 
 为了解决这个问题，文章提出一种结构自适应视频摘要方法，该方法将镜头分割和视频摘要集成到分层结构自适应RNN中，表示为HSA-RNN。文章在四种数据集SumMe，TVum，CoSum和VTW上评估，实验结果证明HSA-RNN在视频摘要任务中有效。
 
-[FFNet: Video Fast-Forwarding via Reinforcement Learning, CVPR'18](https://arxiv.org/abs/1805.02792)
+**[FFNet: Video Fast-Forwarding via Reinforcement Learning, CVPR'18](https://arxiv.org/abs/1805.02792)**
 
 ![](images/0040.png)
 
@@ -60,7 +60,7 @@ For many applications with limited computation, communication, storage and energ
 
 FFNet的在线性质还使用户能够在视频的任何点开始快进，在两个数据集的实验表明可以提供更好的输入视频表示，而且处理要求更低。
 
-[A Memory Network Approach for Story-based Temporal Summarization of 360° Videos, CVPR'18](https://arxiv.org/abs/1805.02838)
+**[A Memory Network Approach for Story-based Temporal Summarization of 360° Videos, CVPR'18](https://arxiv.org/abs/1805.02838)**
 
 ![](images/0041.png)
 
@@ -77,4 +77,3 @@ We address the problem of story-based temporal summarization of long 360° video
 ## 参考
 
 [【机器之心】深度学习之视频摘要简述](https://blog.csdn.net/Uwr44UOuQcNsUQb60zk2/article/details/78869193)
-

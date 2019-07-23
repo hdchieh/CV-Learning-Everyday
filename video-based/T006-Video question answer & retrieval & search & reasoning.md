@@ -22,8 +22,8 @@ Video Question Answering (QA) is an important task in understanding video tempor
 
 **[Finding "It": Weakly-Supervised Reference-Aware Visual Grounding in Instructional Videos, CVPR'18 Oral](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.pdf)**
 
-[【项目地址】](https://finding-it.github.io/)
-[【参考博客】](https://zhuanlan.zhihu.com/p/36374060)
+[【Project Page】](https://finding-it.github.io/)
+[【Blog(Chinese)】](https://zhuanlan.zhihu.com/p/36374060)
 
 **Abstract**
 
@@ -39,7 +39,7 @@ Grounding textual phrases in visual content with standalone image-sentence pairs
 
 **[Attend and Interact: Higher-Order Object Interactions for Video Understanding, CVPR'18](https://arxiv.org/abs/1711.06330)**
 
-[【参考博客】](https://blog.csdn.net/u014230646/article/details/80878109)
+[【Blog(Chinese)】](https://blog.csdn.net/u014230646/article/details/80878109)
 
 **Abstract**
 
@@ -62,7 +62,7 @@ Fine-grained:
 
 **[MovieGraphs: Towards Understanding Human-Centric Situations from Videos, CVPR'18](http://www.cs.toronto.edu/~makarand/papers/CVPR2018_MovieGraphs.pdf)**
 
-[【项目地址】](http://moviegraphs.cs.toronto.edu/)
+[【Project Page】](http://moviegraphs.cs.toronto.edu/)
 
 ![](images/0053.png)
 

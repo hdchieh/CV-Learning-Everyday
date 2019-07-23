@@ -33,8 +33,8 @@ This paper introduces an online model for object detection in videos designed to
 
 **Deep Feature Flow for Video Recognition：**
 
-[【项目地址】](https://github.com/msracver/Deep-Feature-Flow)
-[【参考博客】](https://blog.csdn.net/lxt1994/article/details/79952310)
+[【Project Page】](https://github.com/msracver/Deep-Feature-Flow)
+[【Blog(Chinese)】](https://blog.csdn.net/lxt1994/article/details/79952310)
 
 ![](images/0044.png)
 
@@ -50,8 +50,8 @@ Deep feature flow 用了deep feature （appearance 信息）和 光流（motion 
 
 **Flow-Guided Feature Aggregation for Video Object Detection：**
 
-[【项目地址】](https://github.com/msracver/Flow-Guided-Feature-Aggregation)
-[【参考博客】](https://blog.csdn.net/lxt1994/article/details/79953401)
+[【Project Page】](https://github.com/msracver/Flow-Guided-Feature-Aggregation)
+[【Blog(Chinese)】](https://blog.csdn.net/lxt1994/article/details/79953401)
 
 ![](images/0045.png)
 
@@ -67,7 +67,7 @@ Extending state-of-the-art object detectors from image to video is challenging. 
 
 **Towards High Performance Video Object Detection:**
 
-[【参考博客】](https://zhuanlan.zhihu.com/p/37068429)
+[【Blog(Chinese)】](https://zhuanlan.zhihu.com/p/37068429)
 
 **Abstract**
 

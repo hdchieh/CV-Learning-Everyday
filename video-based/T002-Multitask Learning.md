@@ -56,13 +56,12 @@ Faster R-CNN的网络结构如下图所示，包含两个任务，分别为窗�
 
 ## 论文
 
-[Visual to Sound: Generating Natural Sound for Videos in the Wild, CVPR'18](https://arxiv.org/abs/1712.01393)
+**[Visual to Sound: Generating Natural Sound for Videos in the Wild, CVPR'18](https://arxiv.org/abs/1712.01393)**
 
-[【项目地址】](http://bvision11.cs.unc.edu/bigpen/yipin/visual2sound_webpage/visual2sound.html)
-[【参考博客】](http://www.sohu.com/a/209593882_610300)
+[【Project Page】](http://bvision11.cs.unc.edu/bigpen/yipin/visual2sound_webpage/visual2sound.html)
+[【Blog(Chinese)】](http://www.sohu.com/a/209593882_610300)
 
 ![](images/0037.png)
-
 
 **Abstract**
 

@@ -16,8 +16,8 @@
 
 **[Frame-Recurrent Video Super-Resolution, CVPR'18](https://arxiv.org/abs/1801.04590)**
 
-[【项目地址】](https://github.com/msmsajjadi/frvsr)
-[【参考博客】](https://blog.csdn.net/qq_33590958/article/details/89654853)
+[【Project Page】](https://github.com/msmsajjadi/frvsr)
+[【Blog(Chinese)】](https://blog.csdn.net/qq_33590958/article/details/89654853)
 
 **Abstract**
 
@@ -44,9 +44,9 @@ Motion of the human body is the critical cue for understanding and characterizin
 
 **[LEGO: Learning Edge with Geometry all at Once by Watching Videos, CVPR'18](https://arxiv.org/abs/1803.05648)**
 
-[【项目地址】](https://github.com/zhenheny/LEGO)
+[【Project Page】](https://github.com/zhenheny/LEGO)
 
-[【参考博客】](https://zhuanlan.zhihu.com/p/50729039)
+[【Blog(Chinese)】](https://zhuanlan.zhihu.com/p/50729039)
 
 **Abstract**
 
@@ -58,8 +58,8 @@ Learning to estimate 3D geometry in a single image by watching unlabeled videos 
 
 **[Learning Depth from Monocular Videos using Direct Methods, CVPR'18](https://arxiv.org/abs/1712.00175)**
 
-[【项目地址】](https://github.com/MightyChaos/LKVOLearner)
-[【参考博客】](https://blog.csdn.net/yueleileili/article/details/82946910)
+[【Project Page】](https://github.com/MightyChaos/LKVOLearner)
+[【Blog(Chinese)】](https://blog.csdn.net/yueleileili/article/details/82946910)
 
 **Abstract**
 
@@ -71,8 +71,8 @@ The ability to predict depth from a single image - using recent advances in CNNs
 
 **[End-to-End Learning of Motion Representation for Video Understanding](https://arxiv.org/abs/1804.00413)**
 
-[【项目地址】](https://github.com/LijieFan/tvnet)
-[【参考博客】](https://blog.csdn.net/weixin_42164269/article/details/80651752)
+[【Project Page】](https://github.com/LijieFan/tvnet)
+[【Blog(Chinese)】](https://blog.csdn.net/weixin_42164269/article/details/80651752)
 
 **Abstract**
 

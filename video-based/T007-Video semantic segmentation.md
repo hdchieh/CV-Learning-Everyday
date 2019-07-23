@@ -36,7 +36,7 @@ Deeplabv3同样使用resnet101作为网络的backbone, 提出了ASPP的结构，
 
 **[Blazingly Fast Video Object Segmentation with Pixel-Wise Metric Learning, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Blazingly_Fast_Video_CVPR_2018_paper.pdf)**
 
-[【参考博客】](https://blog.csdn.net/qq_16761599/article/details/80821007)
+[【Blog(Chinese)】](https://blog.csdn.net/qq_16761599/article/details/80821007)
 
 ![](images/0054.png)
 
@@ -48,7 +48,7 @@ This paper tackles the problem of video object segmentation, given some user ann
 
 **[MoNet: Deep Motion Exploitation for Video Object Segmentation, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xiao_MoNet_Deep_Motion_CVPR_2018_paper.pdf)**
 
-[【参考博客】](https://blog.csdn.net/zxx827407369/article/details/84950833)
+[【Blog(Chinese)】](https://blog.csdn.net/zxx827407369/article/details/84950833)
 
 **Abstract**
 
@@ -60,8 +60,8 @@ In this paper, we propose a novel MoNet model to deeply exploit motion cues for 
 
 **[Motion-Guided Cascaded Refinement Network for Video Object Segmentation, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Motion-Guided_Cascaded_Refinement_CVPR_2018_paper.pdf)**
 
-[【项目地址】](https://github.com/feinanshan/Motion-Guided-CRN)
-[【参考博客】](https://blog.csdn.net/qq_34914551/article/details/88096247)
+[【Project Page】](https://github.com/feinanshan/Motion-Guided-CRN)
+[【Blog(Chinese)】](https://blog.csdn.net/qq_34914551/article/details/88096247)
 
 **Abstract**
 
@@ -73,7 +73,7 @@ CNNs已经在很多计算机视觉和图像理解的任务中获得了超越性�
 
 **[Dynamic Video Segmentation Network, CVPR'18](https://arxiv.org/abs/1804.00931)**
 
-[【项目地址】](https://github.com/XUSean0118/DVSNet)
+[【Project Page】](https://github.com/XUSean0118/DVSNet)
 
 **Abstract**
 
@@ -83,9 +83,9 @@ In this paper, we present a detailed design of dynamic video segmentation networ
 
 **[Efficient Video Object Segmentation via Network Modulation, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Yang_Efficient_Video_Object_CVPR_2018_paper.pdf)**
 
-[【项目地址】](https://github.com/linjieyangsc/video_seg)
-[【参考博客1】](https://www.jianshu.com/p/a7def2b306ff)
-[【参考博客2】](https://zhuanlan.zhihu.com/p/36139460)
+[【Project Page】](https://github.com/linjieyangsc/video_seg)
+[【Blog(Chinese)1】](https://www.jianshu.com/p/a7def2b306ff)
+[【Blog(Chinese)2】](https://zhuanlan.zhihu.com/p/36139460)
 
 **Abstract**
 
@@ -97,7 +97,7 @@ Video object segmentation targets at segmenting a specific object throughout a v
 
 **[Low-Latency Video Semantic Segmentation, CVPR'18 Spotlight](https://arxiv.org/abs/1804.00389)**
 
-[【参考博客】](https://zhuanlan.zhihu.com/p/36549785)
+[【Blog(Chinese)】](https://zhuanlan.zhihu.com/p/36549785)
 
 **Abstract**
 
@@ -117,8 +117,8 @@ This paper addresses the problem of video object segmentation, where the initial
 
 **[Actor and Action Video Segmentation from a Sentence, CVPR'18 Oral](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gavrilyuk_Actor_and_Action_CVPR_2018_paper.pdf)**
 
-[【项目地址】](https://kgavrilyuk.github.io/publication/actor_action/)
-[【参考博客】](https://blog.csdn.net/fuxin607/article/details/79955912)
+[【Project Page】](https://kgavrilyuk.github.io/publication/actor_action/)
+[【Blog(Chinese)】](https://blog.csdn.net/fuxin607/article/details/79955912)
 
 **Abstract**
 
@@ -132,8 +132,8 @@ This paper strives for pixel-level segmentation of actors and their actions in v
 
 **[Fast and Accurate Online Video Object Segmentation via Tracking Parts, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_Fast_and_Accurate_CVPR_2018_paper.pdf)**
 
-[【项目地址】](https://github.com/JingchunCheng/FAVOS)
-[【参考博客】](https://blog.csdn.net/weixin_39347054/article/details/83414251)
+[【Project Page】](https://github.com/JingchunCheng/FAVOS)
+[【Blog(Chinese)】](https://blog.csdn.net/weixin_39347054/article/details/83414251)
 
 **Abstract**
 
@@ -145,7 +145,7 @@ Online video object segmentation is a challenging task as it entails to process 
 
 **[Semantic Video Segmentation by Gated Recurrent Flow Propagation, CVPR'18](https://arxiv.org/abs/1612.08871)**
 
-[【项目地址】](https://github.com/D-Nilsson/GRFP)
+[【Project Page】](https://github.com/D-Nilsson/GRFP)
 
 **Abstract**
 

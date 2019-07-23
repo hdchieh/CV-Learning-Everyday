@@ -30,7 +30,7 @@ video captioning任务可以理解为视频图像序列到文本序列的seq2seq
 
 **[Video Captioning via Hierarchical Reinforcement Learning, CVPR'18](https://arxiv.org/abs/1711.11135)**
 
-[【参考博客】](https://cloud.tencent.com/developer/article/1092810)
+[【Blog(Chinese)】](https://cloud.tencent.com/developer/article/1092810)
 
 **Abstract**
 
@@ -42,7 +42,7 @@ Video captioning is the task of automatically generating a textual description o
 
 **[Fine-grained Video Captioning for Sports Narrative, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Fine-Grained_Video_Captioning_CVPR_2018_paper.pdf)**
 
-**[【参考博客】](https://zhuanlan.zhihu.com/p/38292295)**
+**[【Blog(Chinese)】](https://zhuanlan.zhihu.com/p/38292295)**
 
 **Abstract**
 
@@ -74,8 +74,8 @@ Automatically describing a video with natural language is regarded as a fundamen
 
 **[Bidirectional Attentive Fusion with Context Gating for Dense Video Captioning, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Bidirectional_Attentive_Fusion_CVPR_2018_paper.pdf)**
 
-**[【项目地址】](https://github.com/JaywongWang/DenseVideoCaptioning)**
-**[【参考博客】](https://zhuanlan.zhihu.com/p/50924797)**
+**[【Project Page】](https://github.com/JaywongWang/DenseVideoCaptioning)**
+**[【Blog(Chinese)】](https://zhuanlan.zhihu.com/p/50924797)**
 
 **Abstract**
 
@@ -99,7 +99,7 @@ Automatically describing open-domain videos with natural language are attracting
 
 **[End-to-End Dense Video Captioning with Masked Transformer, CVPR'18](https://arxiv.org/pdf/1804.00819.pdf)**
 
-[【项目地址】](https://github.com/salesforce/densecap)
+[【Project Page】](https://github.com/salesforce/densecap)
 
 **Abstract**
 
@@ -113,8 +113,8 @@ Dense video captioning aims to generate text descriptions for all events in an u
 
 **[Reconstruction Network for Video Captioning, CVPR'18](https://arxiv.org/abs/1803.11438)**
 
-[【项目地址(非官方复现)】](https://github.com/hobincar/reconstruction-network-for-video-captioning)
-[【参考博客】](https://zhuanlan.zhihu.com/p/50784504)
+[【Project Page(非官方复现)】](https://github.com/hobincar/reconstruction-network-for-video-captioning)
+[【Blog(Chinese)】](https://zhuanlan.zhihu.com/p/50784504)
 
 **Abstract**
 
