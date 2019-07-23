@@ -32,6 +32,8 @@ This paper introduces a novel variant of video summarization, namely building a 
 
 [HSA-RNN: Hierarchical Structure-Adaptive RNN for Video Summarization, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_HSA-RNN_Hierarchical_Structure-Adaptive_CVPR_2018_paper.pdf)
 
+[【参考博客】](https://zhuanlan.zhihu.com/p/67510393)
+
 ![](images/0039.png)
 
 **Abstract**
@@ -43,8 +45,6 @@ Although video summarization has achieved great success in recent years, few app
 视频数据遵循分层结构，即视频由镜头组成，镜头由若干帧组成。通常，镜头提供人们理解视频内容的活动级信息。现有的摘要方法很少关注镜头分割程序,它们通过一些如固定长度分段的简单策略生成镜头，这可能破坏视频数据的底层分层结构并降低生成的摘要质量。
 
 为了解决这个问题，文章提出一种结构自适应视频摘要方法，该方法将镜头分割和视频摘要集成到分层结构自适应RNN中，表示为HSA-RNN。文章在四种数据集SumMe，TVum，CoSum和VTW上评估，实验结果证明HSA-RNN在视频摘要任务中有效。
-
-[参考博客](https://zhuanlan.zhihu.com/p/67510393)
 
 [FFNet: Video Fast-Forwarding via Reinforcement Learning, CVPR'18](https://arxiv.org/abs/1805.02792)
 

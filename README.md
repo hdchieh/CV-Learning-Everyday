@@ -30,6 +30,8 @@
 
 #### [Video pedestrian tasks]
 
+#### [Video frame interpolation]
+
 ### 1.2 图像类
 
 ## 2. 工具类

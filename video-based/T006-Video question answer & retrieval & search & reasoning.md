@@ -22,6 +22,9 @@ Video Question Answering (QA) is an important task in understanding video tempor
 
 **[Finding "It": Weakly-Supervised Reference-Aware Visual Grounding in Instructional Videos, CVPR'18 Oral](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.pdf)**
 
+[【项目地址】](https://finding-it.github.io/)
+[【参考博客】](https://zhuanlan.zhihu.com/p/36374060)
+
 **Abstract**
 
 Grounding textual phrases in visual content with standalone image-sentence pairs is a challenging task. When we consider grounding in instructional videos, this problem becomes profoundly more complex: the latent temporal structure of instructional videos breaks independence assumptions and necessitates contextual understanding for resolving ambiguous visual-linguistic cues. Furthermore, dense annotations and video data scale mean supervised approaches are prohibitively costly. In this work, we propose to tackle this new task with a weakly-supervised framework for reference-aware visual grounding in instructional videos, where only the temporal alignment between the transcription and the video segment are available for supervision. We introduce the visually grounded action graph, a structured representation capturing the latent dependency between grounding and references in video. For optimization, we propose a new reference-aware multiple instance learning (RA-MIL) objective for weak supervision of grounding in videos. We evaluate our approach over unconstrained videos from YouCookII and RoboWatch, augmented with new reference-grounding test set annotations. We demonstrate that our jointly optimized, reference-aware approach simultaneously improves visual grounding, reference-resolution, and generalization to unseen instructional video categories.
@@ -34,11 +37,9 @@ Grounding textual phrases in visual content with standalone image-sentence pairs
 
 ![](images/0050.png)
 
-[参考博客](https://zhuanlan.zhihu.com/p/36374060)
-
-[项目地址](https://finding-it.github.io/)
-
 **[Attend and Interact: Higher-Order Object Interactions for Video Understanding, CVPR'18](https://arxiv.org/abs/1711.06330)**
+
+[【参考博客】](https://blog.csdn.net/u014230646/article/details/80878109)
 
 **Abstract**
 
@@ -59,9 +60,9 @@ Fine-grained:
 对于某一帧图像，首先用Region Proposal网络生成N个物体候选，对每个生成的物体提取特征，把这N个特征向量映射到另一个维度。这里用了一个LSTM来学习时序关系。LSTM的隐藏层表示物体之间的关系信息。把T帧图像全局特征$v_c$与物体之间的关系信息以及object特征concate到一起，再经过SDP Attention，输入LSTM得到下一帧的隐藏层表达。 
 最终用第T帧时刻的隐藏层以及T帧图像的全局特征来预测视频类别。
 
-[参考博客](https://blog.csdn.net/u014230646/article/details/80878109)
-
 **[MovieGraphs: Towards Understanding Human-Centric Situations from Videos, CVPR'18](http://www.cs.toronto.edu/~makarand/papers/CVPR2018_MovieGraphs.pdf)**
+
+[【项目地址】](http://moviegraphs.cs.toronto.edu/)
 
 ![](images/0053.png)
 
@@ -72,8 +73,6 @@ There is growing interest in artificial intelligence to build socially intellige
 社交智能机器人要求机器能够“阅读”人们的情绪、动机以及影响行为的其他因素。为实现这一目标，文章引入MovieGraphs新数据集，它提供了电影剪辑中描述的社交情境的基于图形的详细标注。每个图形由若干类型的节点组成，以捕获剪辑中存在的人、他们的情感和身体属性、他们的关系（即父母/孩子）以及他们之间的交互。大多数交互都与提供其他详细信息的主题相关联，并以带有时间戳的视频为基础。文章数据集进行全面分析，展示场景的不同社交方面之间以及随着时间推移的场景之间的相关性。
 
 文章提出了一种用图查询视频和文本的方法，并表明：1）图包含丰富而充分的信息，用于汇总和定位每个场景; 2）子图允许模型在抽象层面描述情境并检索多个语义相关的情况。
-
-[项目主页](http://moviegraphs.cs.toronto.edu/)
 
 ## 参考
 

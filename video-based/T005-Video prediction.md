@@ -8,6 +8,9 @@
 
 **[Structure Preserving Video Prediction, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Structure_Preserving_Video_CVPR_2018_paper.pdf)**
 
+[【PPT】](http://www.icst.pku.edu.cn/struct/Seminar/YuzhangHu_181209/YuzhangHu_181209.pdf)
+
+
 **Abstract**
 
 Despite recent emergence of adversarial based methods for video prediction, existing algorithms often produce unsatisfied results in image regions with rich structural information (i.e., object boundary) and detailed motion (i.e., articulated body movement). To this end, we present a structure preserving video prediction framework to explicitly address above issues and enhance video prediction quality. On one hand, our framework contains a two-stream generation architecture which deals with high frequency video content (i.e., detailed object or articulated motion structure) and low frequency video content (i.e., location or moving directions) in two separate streams. On the other hand, we propose a RNN structure for video prediction, which employs temporal-adaptive convolutional kernels to capture time-varying motion patterns as well as tiny objects within a scene. Extensive experiments on diverse scenes, ranging from human motion to semantic layout prediction, demonstrate the effectiveness of the proposed video prediction approach.
@@ -36,9 +39,9 @@ Despite recent emergence of adversarial based methods for video prediction, exis
 
 2. 第二步同时训练encoder、decoder、prediction module，不过encoder和decoder的学习率设置的比较低
 
-[PPT](http://www.icst.pku.edu.cn/struct/Seminar/YuzhangHu_181209/YuzhangHu_181209.pdf)
-
 **[Learning to Extract a Video Sequence from a Single Motion-Blurred Image, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jin_Learning_to_Extract_CVPR_2018_paper.pdf)**
+
+[【项目地址】](https://github.com/MeiguangJin/Learning-to-Extract-a-Video-Sequence-from-a-Single-Motion-Blurred-Image)
 
 **Abstract**
 
@@ -49,8 +52,6 @@ We present a method to extract a video sequence from a single motion-blurred ima
 文章通过顺序提取帧对来逐步重建时间排序，主要贡献是引入对时间顺序不变的损失函数，其允许神经网络在训练期间在可能的组合中选择输出帧。文章还通过设计具有大感受野的网络并通过重采样提升计算效率来解决去模糊的不适定问题。
 
 文章提出的方法可以成功地从单个运动模糊图像中检索清晰图像序列，并且可以很好地适应用不同相机捕获的合成和真实数据集。
-
-[项目地址](https://github.com/MeiguangJin/Learning-to-Extract-a-Video-Sequence-from-a-Single-Motion-Blurred-Image)
 
 ## 参考
 

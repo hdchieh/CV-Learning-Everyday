@@ -33,6 +33,9 @@ This paper introduces an online model for object detection in videos designed to
 
 **Deep Feature Flow for Video Recognition：**
 
+[【项目地址】](https://github.com/msracver/Deep-Feature-Flow)
+[【参考博客】](https://blog.csdn.net/lxt1994/article/details/79952310)
+
 ![](images/0044.png)
 
 **Abstract**
@@ -45,11 +48,10 @@ Deep feature flow 用了deep feature （appearance 信息）和 光流（motion 
 
 简要理解，深度特征流方法DFF是一个用来视频识别的快速精确，通用的端到端的框架。在关键帧使用稠密的网络进行检测，同时保存保留了一致性的先前的网络特征，非关键帧使用关键帧的这个网络特征以及稀疏的网络（预测光流）进行检测。
 
-[项目地址](https://github.com/msracver/Deep-Feature-Flow)
-
-[参考博客](https://blog.csdn.net/lxt1994/article/details/79952310)
-
 **Flow-Guided Feature Aggregation for Video Object Detection：**
+
+[【项目地址】](https://github.com/msracver/Flow-Guided-Feature-Aggregation)
+[【参考博客】](https://blog.csdn.net/lxt1994/article/details/79953401)
 
 ![](images/0045.png)
 
@@ -63,11 +65,9 @@ Extending state-of-the-art object detectors from image to video is challenging. 
 
 文中的方法对于快速移动的物体具有较好的识别效果。
 
-[项目地址](https://github.com/msracver/Flow-Guided-Feature-Aggregation)
-
-[参考博客](https://blog.csdn.net/lxt1994/article/details/79953401)
-
 **Towards High Performance Video Object Detection:**
+
+[【参考博客】](https://zhuanlan.zhihu.com/p/37068429)
 
 **Abstract**
 
@@ -80,8 +80,6 @@ Built upon the recent works, this work proposes a unified approach based on the 
 ![](images/0046.png)
 
 其中a代表DFF（deep feature flow），b 代表FGFA（flow guided feature aggregation) 。右侧代表他们提出的3种不同的方法。
-
-[参考博客](https://zhuanlan.zhihu.com/p/37068429)
 
 ## 参考
 

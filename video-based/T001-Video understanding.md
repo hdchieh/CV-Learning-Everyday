@@ -72,7 +72,7 @@ DT和iDT方法是深度学习方法成熟之前效果最好的经典方法。
 
 [C. Feichtenhofer, et al. Convolutional two-stream network fusion for video action recognition. CVPR'16.](https://arxiv.org/pdf/1604.06573.pdf)
 
-[Spatiotemporal Residual Networks for Video Action Recognition](https://arxiv.org/abs/1611.02155)
+[Spatiotemporal Residual Networks for Video Action Recognition, NIPS'16](https://arxiv.org/abs/1611.02155)
 
 [C. Feichtenhofer, et al. Spatio-temporal multiplier networks for video action recognition. CVPR'17.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Feichtenhofer_Spatiotemporal_Multiplier_Networks_CVPR_2017_paper.pdf)
 
