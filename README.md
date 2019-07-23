@@ -67,8 +67,8 @@
 |【NIPS'14】[K. Simonyan and A. Zisserman. Two-stream convolutional networks for action recognition in videos.](https://arxiv.org/abs/1406.2199)||
 |【CVPR'15】[L. Wang, et al. Action recognition with trajectory-pooled deep-convolutional descriptors.](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Action_Recognition_With_2015_CVPR_paper.pdf)||
 |【CVPR'16】[C. Feichtenhofer, et al. Convolutional two-stream network fusion for video action recognition.](https://arxiv.org/pdf/1604.06573.pdf)||
-|【CVPR'17】[Spatiotemporal Residual Networks for Video Action Recognition, NIPS'16](https://arxiv.org/abs/1611.02155)||
-|【】[C. Feichtenhofer, et al. Spatio-temporal multiplier networks for video action recognition.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Feichtenhofer_Spatiotemporal_Multiplier_Networks_CVPR_2017_paper.pdf)||
+|【NIPS'16】[Spatiotemporal Residual Networks for Video Action Recognition](https://arxiv.org/abs/1611.02155)||
+|【CVPR'17】[C. Feichtenhofer, et al. Spatio-temporal multiplier networks for video action recognition.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Feichtenhofer_Spatiotemporal_Multiplier_Networks_CVPR_2017_paper.pdf)||
 |【ECCV'16】[L. Wang, et al. Temporal segment networks: Towards good practices for deep action recognition.](https://wanglimin.github.io/papers/WangXWQLTV_ECCV16.pdf)||
 |【CVPR'17】[Z. Lan, et al. Deep local video feature for action recognition.](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w14/papers/Lan_Deep_Local_Video_CVPR_2017_paper.pdf)||
 |【CVPR'17】[R. Girdhar, et al. ActionVLAD: Learning spatio-temporal aggregation for action recognition.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Girdhar_ActionVLAD_Learning_Spatio-Temporal_CVPR_2017_paper.pdf)||
@@ -87,8 +87,8 @@
 
 |Reference|
 | :--: |
-|[【知乎】视频理解近期研究进展](https://zhuanlan.zhihu.com/p/36330561)|
-|[【知乎】计算机视觉中video understanding领域有什么研究方向和比较重要的成果？](https://www.zhihu.com/question/64021205)|
+|【知乎】[视频理解近期研究进展](https://zhuanlan.zhihu.com/p/36330561)|
+|【知乎】[计算机视觉中video understanding领域有什么研究方向和比较重要的成果？](https://www.zhihu.com/question/64021205)|
 
 ### 1.3 Task
 
@@ -100,9 +100,9 @@
 
 |Reference|
 | :--: |
-|[【知乎】模型汇总-14 多任务学习-Multitask Learning概述](https://zhuanlan.zhihu.com/p/27421983)|
-|[【知乎】一箭N雕：多任务深度学习实战](https://zhuanlan.zhihu.com/p/22190532)|
-|[【机器之心】共享相关任务表征，一文读懂深度神经网络多任务学习](https://www.jiqizhixin.com/articles/2017-06-23-5)|
+|【知乎】[模型汇总-14 多任务学习-Multitask Learning概述](https://zhuanlan.zhihu.com/p/27421983)|
+|【知乎】[一箭N雕：多任务深度学习实战](https://zhuanlan.zhihu.com/p/22190532)|
+|【机器之心】[共享相关任务表征，一文读懂深度神经网络多任务学习](https://www.jiqizhixin.com/articles/2017-06-23-5)|
 
 #### [1.3.2 Video summarization](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T003-Video%20summarization.md)
 
@@ -115,7 +115,7 @@
 
 |Reference|
 | :--: |
-|[【机器之心】深度学习之视频摘要简述](https://blog.csdn.net/Uwr44UOuQcNsUQb60zk2/article/details/78869193)|
+|【机器之心】[深度学习之视频摘要简述](https://blog.csdn.net/Uwr44UOuQcNsUQb60zk2/article/details/78869193)|
 
 #### [1.3.3 Video object detection](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T004-Video%20object%20detection.md)
 
@@ -128,8 +128,8 @@
 
 |Reference|
 | :--: |
-|[【GitHub】基于视频的目标检测算法研究](https://github.com/guanfuchen/video_obj)|
-|[【知乎】视频中的目标检测与图像中的目标检测具体有什么区别？](https://www.zhihu.com/question/52185576)|
+|【GitHub】[基于视频的目标检测算法研究](https://github.com/guanfuchen/video_obj)|
+|【知乎】[视频中的目标检测与图像中的目标检测具体有什么区别？](https://www.zhihu.com/question/52185576)|
 
 #### [1.3.4 Video prediction](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T005-Video%20prediction.md)
 
@@ -140,7 +140,7 @@
 
 |Reference|
 | :--: |
-|[【CSDN】基于深度学习的视频预测文献综述](https://blog.csdn.net/weixin_41024483/article/details/88366989)|
+|【CSDN】[基于深度学习的视频预测文献综述](https://blog.csdn.net/weixin_41024483/article/details/88366989)|
 
 #### [1.3.5 Video question answer & retrieval & search & reasoning](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T006-Video%20question%20answer%20%26%20retrieval%20%26%20search%20%26%20reasoning.md)
 
@@ -153,7 +153,7 @@
 
 |Reference|
 | :--: |
-|[【专知】【论文推荐】最新7篇视觉问答（VQA）相关论文—解释、读写记忆网络、逆视觉问答、视觉推理、可解释性、注意力机制、计数](https://cloud.tencent.com/developer/article/1086325)|
+|【专知】[【论文推荐】最新7篇视觉问答（VQA）相关论文—解释、读写记忆网络、逆视觉问答、视觉推理、可解释性、注意力机制、计数](https://cloud.tencent.com/developer/article/1086325)|
 
 #### [1.3.6 Video semantic segmentation](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T007-Video%20semantic%20segmentation.md)
 
@@ -174,11 +174,11 @@
 
 |Reference|
 | :--: |
-|[【cnblogs】应用于语义分割问题的深度学习技术综述](https://blog.csdn.net/bailing910/article/details/82625918)|
-|[【知乎】CVPR 2018 弱监督语义分割简评](https://zhuanlan.zhihu.com/p/42058498)|
-|[【知乎】视频语义分割介绍](https://zhuanlan.zhihu.com/p/52014957)|
-|[【CSDN】CVPR2018-Segmentation相关论文整理](https://blog.csdn.net/qq_16761599/article/details/80727466)|
-|[【GitHub】Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)|
+|【cnblogs】[应用于语义分割问题的深度学习技术综述](https://blog.csdn.net/bailing910/article/details/82625918)|
+|【知乎】[CVPR 2018 弱监督语义分割简评](https://zhuanlan.zhihu.com/p/42058498)|
+|【知乎】[视频语义分割介绍](https://zhuanlan.zhihu.com/p/52014957)|
+|【CSDN】[CVPR2018-Segmentation相关论文整理](https://blog.csdn.net/qq_16761599/article/details/80727466)|
+|【GitHub】[Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)|
 
 #### [1.3.7 Video flow & depth & super-resolution](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T008-Video%20flow%20%26%20depth%20%26%20super-resolution.md)
 
@@ -193,13 +193,13 @@
 
 |Reference|
 | :--: |
-|[【CSDN】super resolution 论文阅读简略笔记](https://blog.csdn.net/Zealoe/article/details/78550444)|
-|[【CSDN】深度学习（二十二）——ESPCN, FSRCNN, VESPCN, SRGAN, DemosaicNet, MemNet, RDN, ShuffleSeg](https://blog.csdn.net/antkillerfarm/article/details/79956241)|
-|[【CSDN】CVPR2019中关于超分辨率算法的16篇论文](https://blog.csdn.net/leviopku/article/details/90634994)|
-|[【GitHub】Video-Super-Resolution](https://github.com/flyywh/Video-Super-Resolution)|
-|[【GitHub】Mind Mapping for Depth Estimation](https://github.com/sxfduter/monocular-depth-estimation)|
-|[【知乎】CVPR2018 人体姿态相关](https://zhuanlan.zhihu.com/p/38328177)|
-|[【知乎】深度学习在图像超分辨率重建中的应用](https://zhuanlan.zhihu.com/p/25532538)|
+|【CSDN】[super resolution 论文阅读简略笔记](https://blog.csdn.net/Zealoe/article/details/78550444)|
+|【CSDN】[深度学习（二十二）——ESPCN, FSRCNN, VESPCN, SRGAN, DemosaicNet, MemNet, RDN, ShuffleSeg](https://blog.csdn.net/antkillerfarm/article/details/79956241)|
+|【CSDN】[CVPR2019中关于超分辨率算法的16篇论文](https://blog.csdn.net/leviopku/article/details/90634994)|
+|【GitHub】[Video-Super-Resolution](https://github.com/flyywh/Video-Super-Resolution)|
+|【GitHub】[Mind Mapping for Depth Estimation](https://github.com/sxfduter/monocular-depth-estimation)|
+|【知乎】[CVPR2018 人体姿态相关](https://zhuanlan.zhihu.com/p/38328177)|
+|【知乎】[深度学习在图像超分辨率重建中的应用](https://zhuanlan.zhihu.com/p/25532538)|
 
 #### [1.3.8 Video classification & recognition](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T009-Video%20classification%20%26%20recognition.md)
 
@@ -218,10 +218,10 @@
 
 |Reference|
 | :--: |
-|[【知乎】简评Video Action Recognition 的近期进展](https://zhuanlan.zhihu.com/p/59915784)|
-|[【知乎】Video Analysis相关领域解读之Action Recognition(行为识别)](https://zhuanlan.zhihu.com/p/26460437)|
-|[【CSDN】3D CNN框架结构各层计算](https://blog.csdn.net/auto1993/article/details/70948249)|
-|[【CSDN】Temporal Action Detection (时序动作检测)综述](https://blog.csdn.net/qq_33278461/article/details/80720104)|
+|【知乎】[简评Video Action Recognition 的近期进展](https://zhuanlan.zhihu.com/p/59915784)|
+|【知乎】[Video Analysis相关领域解读之Action Recognition(行为识别)](https://zhuanlan.zhihu.com/p/26460437)|
+|【CSDN】[3D CNN框架结构各层计算](https://blog.csdn.net/auto1993/article/details/70948249)|
+|【CSDN】[Temporal Action Detection (时序动作检测)综述](https://blog.csdn.net/qq_33278461/article/details/80720104)|
 
 #### [1.3.9 Video caption](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T010-Video%20caption.md)
 
@@ -238,7 +238,7 @@
 
 |Reference|
 | :--: |
-|[【知乎】Video Analysis 相关领域介绍之Video Captioning(视频to文字描述)](https://zhuanlan.zhihu.com/p/26730181)|
+|【知乎】[Video Analysis 相关领域介绍之Video Captioning(视频to文字描述)](https://zhuanlan.zhihu.com/p/26730181)|
 
 #### [1.3.10 Video generation (GAN)](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T011-Video%20generation%20(GAN).md)
 
@@ -262,4 +262,4 @@
 
 |Reference|
 | :--: |
-|[【GitHub】Video-Enhancement](https://github.com/yulunzhang/video-enhancement)|
+|【GitHub】[Video-Enhancement](https://github.com/yulunzhang/video-enhancement)|
