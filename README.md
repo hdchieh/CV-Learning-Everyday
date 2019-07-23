@@ -85,9 +85,10 @@
 
 #### 1.2.6 Reference
 
-[【知乎】视频理解近期研究进展](https://zhuanlan.zhihu.com/p/36330561)
-
-[【知乎】计算机视觉中video understanding领域有什么研究方向和比较重要的成果？](https://www.zhihu.com/question/64021205)
+|Reference|
+| :--: |
+|[【知乎】视频理解近期研究进展](https://zhuanlan.zhihu.com/p/36330561)|
+|[【知乎】计算机视觉中video understanding领域有什么研究方向和比较重要的成果？](https://www.zhihu.com/question/64021205)|
 
 ### 1.3 Task
 
@@ -97,13 +98,11 @@
 | :--: |:--: |
 |[Visual to Sound: Generating Natural Sound for Videos in the Wild, CVPR'18](https://arxiv.org/abs/1712.01393)|[【Project Page】](http://bvision11.cs.unc.edu/bigpen/yipin/visual2sound_webpage/visual2sound.html)[【Blog(Chinese)】](http://www.sohu.com/a/209593882_610300)|
 
-**Reference**
-
-[【知乎】模型汇总-14 多任务学习-Multitask Learning概述](https://zhuanlan.zhihu.com/p/27421983)
-
-[【知乎】一箭N雕：多任务深度学习实战](https://zhuanlan.zhihu.com/p/22190532)
-
-[【机器之心】共享相关任务表征，一文读懂深度神经网络多任务学习](https://www.jiqizhixin.com/articles/2017-06-23-5)
+|Reference|
+| :--: |
+|[【知乎】模型汇总-14 多任务学习-Multitask Learning概述](https://zhuanlan.zhihu.com/p/27421983)|
+|[【知乎】一箭N雕：多任务深度学习实战](https://zhuanlan.zhihu.com/p/22190532)|
+|[【机器之心】共享相关任务表征，一文读懂深度神经网络多任务学习](https://www.jiqizhixin.com/articles/2017-06-23-5)|
 
 #### [1.3.2 Video summarization](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T003-Video%20summarization.md)
 
@@ -114,9 +113,9 @@
 |[FFNet: Video Fast-Forwarding via Reinforcement Learning, CVPR'18](https://arxiv.org/abs/1805.02792)||
 |[A Memory Network Approach for Story-based Temporal Summarization of 360° Videos, CVPR'18](https://arxiv.org/abs/1805.02838)||
 
-**Reference**
-
-[【机器之心】深度学习之视频摘要简述](https://blog.csdn.net/Uwr44UOuQcNsUQb60zk2/article/details/78869193)
+|Reference|
+| :--: |
+|[【机器之心】深度学习之视频摘要简述](https://blog.csdn.net/Uwr44UOuQcNsUQb60zk2/article/details/78869193)|
 
 #### [1.3.3 Video object detection](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T004-Video%20object%20detection.md)
 
@@ -127,11 +126,10 @@
 |[Flow-Guided Feature Aggregation for Video Object Detection, ICCV'17](https://arxiv.org/abs/1703.10025)|[【Project Page】](https://github.com/msracver/Flow-Guided-Feature-Aggregation)[【Blog(Chinese)】](https://blog.csdn.net/lxt1994/article/details/79953401)|
 |[Towards High Performance Video Object Detection, CVPR'18](https://arxiv.org/abs/1711.11577)|[【Blog(Chinese)】](https://zhuanlan.zhihu.com/p/37068429)|
 
-**Reference**
-
-[【GitHub】基于视频的目标检测算法研究](https://github.com/guanfuchen/video_obj)
-
-[【知乎】视频中的目标检测与图像中的目标检测具体有什么区别？](https://www.zhihu.com/question/52185576)
+|Reference|
+| :--: |
+|[【GitHub】基于视频的目标检测算法研究](https://github.com/guanfuchen/video_obj)|
+|[【知乎】视频中的目标检测与图像中的目标检测具体有什么区别？](https://www.zhihu.com/question/52185576)|
 
 #### [1.3.4 Video prediction](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T005-Video%20prediction.md)
 
@@ -140,9 +138,9 @@
 |[Structure Preserving Video Prediction, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Structure_Preserving_Video_CVPR_2018_paper.pdf)|[【PPT】](http://www.icst.pku.edu.cn/struct/Seminar/YuzhangHu_181209/YuzhangHu_181209.pdf)|
 |[Learning to Extract a Video Sequence from a Single Motion-Blurred Image, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jin_Learning_to_Extract_CVPR_2018_paper.pdf)|[【Project Page】](https://github.com/MeiguangJin/Learning-to-Extract-a-Video-Sequence-from-a-Single-Motion-Blurred-Image)|
 
-**Reference**
-
-[【CSDN】基于深度学习的视频预测文献综述](https://blog.csdn.net/weixin_41024483/article/details/88366989)
+|Reference|
+| :--: |
+|[【CSDN】基于深度学习的视频预测文献综述](https://blog.csdn.net/weixin_41024483/article/details/88366989)|
 
 #### [1.3.5 Video question answer & retrieval & search & reasoning](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T006-Video%20question%20answer%20%26%20retrieval%20%26%20search%20%26%20reasoning.md)
 
@@ -153,9 +151,9 @@
 |[Attend and Interact: Higher-Order Object Interactions for Video Understanding, CVPR'18](https://arxiv.org/abs/1711.06330)|[【Blog(Chinese)】](https://blog.csdn.net/u014230646/article/details/80878109)|
 |[MovieGraphs: Towards Understanding Human-Centric Situations from Videos, CVPR'18](http://www.cs.toronto.edu/~makarand/papers/CVPR2018_MovieGraphs.pdf)|[【Project Page】](http://moviegraphs.cs.toronto.edu/)|
 
-**Reference**
-
-[【专知】【论文推荐】最新7篇视觉问答（VQA）相关论文—解释、读写记忆网络、逆视觉问答、视觉推理、可解释性、注意力机制、计数](https://cloud.tencent.com/developer/article/1086325)
+|Reference|
+| :--: |
+|[【专知】【论文推荐】最新7篇视觉问答（VQA）相关论文—解释、读写记忆网络、逆视觉问答、视觉推理、可解释性、注意力机制、计数](https://cloud.tencent.com/developer/article/1086325)|
 
 #### [1.3.6 Video semantic segmentation](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T007-Video%20semantic%20segmentation.md)
 
@@ -168,24 +166,19 @@
 |[Efficient Video Object Segmentation via Network Modulation, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Yang_Efficient_Video_Object_CVPR_2018_paper.pdf)|[【Project Page】](https://github.com/linjieyangsc/video_seg)[【Blog(Chinese)1】](https://www.jianshu.com/p/a7def2b306ff)[【Blog(Chinese)2】](https://zhuanlan.zhihu.com/p/36139460)|
 |[Low-Latency Video Semantic Segmentation, CVPR'18 Spotlight](https://arxiv.org/abs/1804.00389)|[【Blog(Chinese)】](https://zhuanlan.zhihu.com/p/36549785)|
 |[CNN in MRF: Video Object Segmentation via Inference in A CNN-Based Higher-Order Spatio-Temporal MRF, CVPR'18](https://arxiv.org/abs/1803.09453)||
-|[[Actor and Action Video Segmentation from a Sentence, CVPR'18 Oral](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gavrilyuk_Actor_and_Action_CVPR_2018_paper.pdf)]|[[【Project Page】](https://kgavrilyuk.github.io/publication/actor_action/)
-[【Blog(Chinese)】](https://blog.csdn.net/fuxin607/article/details/79955912)]|
+|[Actor and Action Video Segmentation from a Sentence, CVPR'18 Oral](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gavrilyuk_Actor_and_Action_CVPR_2018_paper.pdf)|[【Project Page】](https://kgavrilyuk.github.io/publication/actor_action/)[【Blog(Chinese)】](https://blog.csdn.net/fuxin607/article/details/79955912)|
 |[Fast and Accurate Online Video Object Segmentation via Tracking Parts, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_Fast_and_Accurate_CVPR_2018_paper.pdf)|[【Project Page】](https://github.com/JingchunCheng/FAVOS)[【Blog(Chinese)】](https://blog.csdn.net/weixin_39347054/article/details/83414251)|
-|[[Semantic Video Segmentation by Gated Recurrent Flow Propagation, CVPR'18](https://arxiv.org/abs/1612.08871)]|[【Project Page】](https://github.com/D-Nilsson/GRFP)|
+|[Semantic Video Segmentation by Gated Recurrent Flow Propagation, CVPR'18](https://arxiv.org/abs/1612.08871)|[【Project Page】](https://github.com/D-Nilsson/GRFP)|
 |[Reinforcement Cutting-Agent Learning for Video Object Segmentation, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Han_Reinforcement_Cutting-Agent_Learning_CVPR_2018_paper.pdf)||
 |[Deep Spatio-Temporal Random Fields for Efficient Video Segmentation, CVPR'18](https://arxiv.org/abs/1807.03148)||
 
-**Reference**
-
-[【cnblogs】应用于语义分割问题的深度学习技术综述](https://blog.csdn.net/bailing910/article/details/82625918)
-
-[【知乎】CVPR 2018 | 弱监督语义分割简评](https://zhuanlan.zhihu.com/p/42058498)
-
-[【知乎】视频语义分割介绍](https://zhuanlan.zhihu.com/p/52014957)
-
-[【CSDN】CVPR2018-Segmentation相关论文整理](https://blog.csdn.net/qq_16761599/article/details/80727466)
-
-[【GitHub】Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
+|Reference|
+| :--: |
+|[【cnblogs】应用于语义分割问题的深度学习技术综述](https://blog.csdn.net/bailing910/article/details/82625918)|
+|[【知乎】CVPR 2018 弱监督语义分割简评](https://zhuanlan.zhihu.com/p/42058498)|
+|[【知乎】视频语义分割介绍](https://zhuanlan.zhihu.com/p/52014957)|
+|[【CSDN】CVPR2018-Segmentation相关论文整理](https://blog.csdn.net/qq_16761599/article/details/80727466)|
+|[【GitHub】Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)|
 
 #### [1.3.7 Video flow & depth & super-resolution](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T008-Video%20flow%20%26%20depth%20%26%20super-resolution.md)
 
@@ -198,21 +191,15 @@
 |[End-to-End Learning of Motion Representation for Video Understanding](https://arxiv.org/abs/1804.00413)|[【Project Page】](https://github.com/LijieFan/tvnet)[【Blog(Chinese)】](https://blog.csdn.net/weixin_42164269/article/details/80651752)|
 |[Unsupervised Learning of Depth and Ego-Motion from Monocular Video Using 3D Geometric Constraints](https://arxiv.org/abs/1802.05522)||
 
-**Reference**
-
-[【CSDN】super resolution 论文阅读简略笔记](https://blog.csdn.net/Zealoe/article/details/78550444)
-
-[【CSDN】深度学习（二十二）——ESPCN, FSRCNN, VESPCN, SRGAN, DemosaicNet, MemNet, RDN, ShuffleSeg](https://blog.csdn.net/antkillerfarm/article/details/79956241)
-
-[【CSDN】CVPR2019中关于超分辨率算法的16篇论文](https://blog.csdn.net/leviopku/article/details/90634994)
-
-[【GitHub】Video-Super-Resolution](https://github.com/flyywh/Video-Super-Resolution)
-
-[【GitHub】Mind Mapping for Depth Estimation](https://github.com/sxfduter/monocular-depth-estimation)
-
-[【知乎】CVPR2018 人体姿态相关](https://zhuanlan.zhihu.com/p/38328177)
-
-[【知乎】深度学习在图像超分辨率重建中的应用](https://zhuanlan.zhihu.com/p/25532538)
+|Reference|
+| :--: |
+|[【CSDN】super resolution 论文阅读简略笔记](https://blog.csdn.net/Zealoe/article/details/78550444)|
+|[【CSDN】深度学习（二十二）——ESPCN, FSRCNN, VESPCN, SRGAN, DemosaicNet, MemNet, RDN, ShuffleSeg](https://blog.csdn.net/antkillerfarm/article/details/79956241)|
+|[【CSDN】CVPR2019中关于超分辨率算法的16篇论文](https://blog.csdn.net/leviopku/article/details/90634994)|
+|[【GitHub】Video-Super-Resolution](https://github.com/flyywh/Video-Super-Resolution)|
+|[【GitHub】Mind Mapping for Depth Estimation](https://github.com/sxfduter/monocular-depth-estimation)|
+|[【知乎】CVPR2018 人体姿态相关](https://zhuanlan.zhihu.com/p/38328177)|
+|[【知乎】深度学习在图像超分辨率重建中的应用](https://zhuanlan.zhihu.com/p/25532538)|
 
 #### [1.3.8 Video classification & recognition](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T009-Video%20classification%20%26%20recognition.md)
 
@@ -229,17 +216,14 @@
 |[NeuralNetwork-Viterbi: A Framework for Weakly Supervised Video Learning, CVPR'18 Spotlight](https://arxiv.org/abs/1805.06875)|[【Project Page】](https://github.com/alexanderrichard/NeuralNetwork-Viterbi)|
 |[Temporal Deformable Residual Networks for Action Segmentation in Videos, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lei_Temporal_Deformable_Residual_CVPR_2018_paper.pdf)||
 
-**Reference**
+|Reference|
+| :--: |
+|[【知乎】简评Video Action Recognition 的近期进展](https://zhuanlan.zhihu.com/p/59915784)|
+|[【知乎】Video Analysis相关领域解读之Action Recognition(行为识别)](https://zhuanlan.zhihu.com/p/26460437)|
+|[【CSDN】3D CNN框架结构各层计算](https://blog.csdn.net/auto1993/article/details/70948249)|
+|[【CSDN】Temporal Action Detection (时序动作检测)综述](https://blog.csdn.net/qq_33278461/article/details/80720104)|
 
-[【知乎】简评 | Video Action Recognition 的近期进展](https://zhuanlan.zhihu.com/p/59915784)
-
-[【知乎】Video Analysis相关领域解读之Action Recognition(行为识别)](https://zhuanlan.zhihu.com/p/26460437)
-
-[【CSDN】3D CNN框架结构各层计算](https://blog.csdn.net/auto1993/article/details/70948249)
-
-[【CSDN】Temporal Action Detection (时序动作检测)综述](https://blog.csdn.net/qq_33278461/article/details/80720104)
-
-#### [1.3.9 Video caption]
+#### [1.3.9 Video caption](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T010-Video%20caption.md)
 
 |Paper|Extra Link|
 | :--: |:--: |
@@ -252,11 +236,11 @@
 |[Reconstruction Network for Video Captioning, CVPR'18](https://arxiv.org/abs/1803.11438)|[【Project Page(Unofficial)】](https://github.com/hobincar/reconstruction-network-for-video-captioning)[【Blog(Chinese)】](https://zhuanlan.zhihu.com/p/50784504)|
 |[Multimodal Memory Modelling for Video Captioning, CVPR'18](https://arxiv.org/abs/1611.05592)||
 
-**Reference**
+|Reference|
+| :--: |
+|[【知乎】Video Analysis 相关领域介绍之Video Captioning(视频to文字描述)](https://zhuanlan.zhihu.com/p/26730181)|
 
-[【知乎】Video Analysis 相关领域介绍之Video Captioning(视频to文字描述)](https://zhuanlan.zhihu.com/p/26730181)
-
-#### [1.3.10 Video generation (GAN)]
+#### [1.3.10 Video generation (GAN)](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T011-Video%20generation%20(GAN).md)
 
 |Paper|Extra Link|
 | :--: |:--: |
@@ -276,6 +260,6 @@
 |[PhaseNet for Video Frame Interpolation, CVPR'18](https://arxiv.org/abs/1804.00884)||
 |[Context-aware Synthesis for Video Frame Interpolation, CVPR'18](https://arxiv.org/abs/1803.10967)||
 
-**Reference**
-
-[【GitHub】Video-Enhancement](https://github.com/yulunzhang/video-enhancement)
+|Reference|
+| :--: |
+|[【GitHub】Video-Enhancement](https://github.com/yulunzhang/video-enhancement)|
