@@ -1,4 +1,4 @@
-# Video understanding
+# Method
 
 ## 相关研究
 

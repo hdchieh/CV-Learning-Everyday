@@ -1,4 +1,4 @@
-# 经典方法
+# Classical methods
 
 **[H. Wang, et al. Dense trajectories and motion boundary descriptors for action recognition. IJCV'13.](https://hal.inria.fr/hal-00803241/PDF/IJCV.pdf)**
 

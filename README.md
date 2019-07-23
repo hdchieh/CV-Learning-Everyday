@@ -1,10 +1,15 @@
 # CV-Learning-Everyday
 
-## 1. 论文学习
+## 1. Video
 
-### 1.1 视频类
+### [1.1 Method](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T001-Video%20understanding.md)
 
-#### [Video understanding](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T001-Video%20understanding.md)
+#### Classical Methods
+
+|Paper|Extra Link|
+| :--: |:--: |
+|**[H. Wang, et al. Dense trajectories and motion boundary descriptors for action recognition. IJCV'13.](https://hal.inria.fr/hal-00803241/PDF/IJCV.pdf)**||
+|**[H. Wang and C. Schmid. Action recognition with improved trajectories. ICCV'13.](http://lear.inrialpes.fr/people/wang/download/iccv13_poster_final.pdf)**||
 
 #### [Multitask learning](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T002-Multitask%20Learning.md)
 

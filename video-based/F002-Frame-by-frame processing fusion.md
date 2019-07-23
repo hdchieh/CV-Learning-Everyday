@@ -1,4 +1,4 @@
-# 逐帧处理融合
+# Frame-by-frame processing fusion
 
 这类方法把视频看作一系列图像的集合，每帧图像单独提取特征，再融合它们的深度特征。
 
