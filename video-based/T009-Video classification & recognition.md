@@ -14,7 +14,7 @@
 **[Appearance-and-Relation Networks for Video Classification, CVPR'18](https://arxiv.org/abs/1711.09125)**
 
 [【Project Page】](https://github.com/wanglimin/ARTNet)
-[【参考笔记】](https://zhuanlan.zhihu.com/p/32197854)
+[【Blog(Chinese)】](https://zhuanlan.zhihu.com/p/32197854)
 
 **Abstract**
 

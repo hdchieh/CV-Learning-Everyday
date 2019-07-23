@@ -10,7 +10,7 @@
 
 **[MoCoGAN: Decomposing Motion and Content for Video Generation, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tulyakov_MoCoGAN_Decomposing_Motion_CVPR_2018_paper.pdf)**
 
-**[【项目地址】](https://github.com/sergeytulyakov/mocogan)**
+[【Project Page】](https://github.com/sergeytulyakov/mocogan)
 
 **Abstract**
 
@@ -32,7 +32,7 @@ Taking a photo outside, can we predict the immediate future, e.g., how would the
 
 **[Controllable Video Generation with Sparse Trajectories, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hao_Controllable_Video_Generation_CVPR_2018_paper.pdf)**
 
-**[【项目地址】](https://github.com/zekunhao1995/ControllableVideoGen)**
+[【Project Page】](https://github.com/zekunhao1995/ControllableVideoGen)
 
 **Abstract**
 

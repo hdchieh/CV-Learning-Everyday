@@ -45,7 +45,6 @@ Motion of the human body is the critical cue for understanding and characterizin
 **[LEGO: Learning Edge with Geometry all at Once by Watching Videos, CVPR'18](https://arxiv.org/abs/1803.05648)**
 
 [【Project Page】](https://github.com/zhenheny/LEGO)
-
 [【Blog(Chinese)】](https://zhuanlan.zhihu.com/p/50729039)
 
 **Abstract**

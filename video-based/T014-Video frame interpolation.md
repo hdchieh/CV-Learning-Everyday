@@ -9,7 +9,7 @@
 **[Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation, CVPR'18](https://arxiv.org/abs/1712.00080)**
 
 [【Project Page】](https://people.cs.umass.edu/~hzjiang/projects/superslomo/)
-[【Project Page(非官方复现)】](https://github.com/TheFairBear/Super-SlowMo)
+[【Project Page(Unofficial)】](https://github.com/TheFairBear/Super-SlowMo)
 [【Blog(Chinese)】](https://zhuanlan.zhihu.com/p/69538032)
 
 **Abstract**

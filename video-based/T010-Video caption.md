@@ -42,7 +42,7 @@ Video captioning is the task of automatically generating a textual description o
 
 **[Fine-grained Video Captioning for Sports Narrative, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Fine-Grained_Video_Captioning_CVPR_2018_paper.pdf)**
 
-**[【Blog(Chinese)】](https://zhuanlan.zhihu.com/p/38292295)**
+[【Blog(Chinese)】](https://zhuanlan.zhihu.com/p/38292295)
 
 **Abstract**
 
@@ -74,8 +74,8 @@ Automatically describing a video with natural language is regarded as a fundamen
 
 **[Bidirectional Attentive Fusion with Context Gating for Dense Video Captioning, CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Bidirectional_Attentive_Fusion_CVPR_2018_paper.pdf)**
 
-**[【Project Page】](https://github.com/JaywongWang/DenseVideoCaptioning)**
-**[【Blog(Chinese)】](https://zhuanlan.zhihu.com/p/50924797)**
+[【Project Page】](https://github.com/JaywongWang/DenseVideoCaptioning)
+[【Blog(Chinese)】](https://zhuanlan.zhihu.com/p/50924797)
 
 **Abstract**
 
@@ -113,7 +113,7 @@ Dense video captioning aims to generate text descriptions for all events in an u
 
 **[Reconstruction Network for Video Captioning, CVPR'18](https://arxiv.org/abs/1803.11438)**
 
-[【Project Page(非官方复现)】](https://github.com/hobincar/reconstruction-network-for-video-captioning)
+[【Project Page(Unofficial)】](https://github.com/hobincar/reconstruction-network-for-video-captioning)
 [【Blog(Chinese)】](https://zhuanlan.zhihu.com/p/50784504)
 
 **Abstract**
