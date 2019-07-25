@@ -248,11 +248,34 @@
 |【CVPR'18】[Learning to Generate Time-Lapse Videos Using Multi-Stage Dynamic Generative Adversarial Networks](https://arxiv.org/abs/1709.07592)||
 |【CVPR'18】[Controllable Video Generation with Sparse Trajectories](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hao_Controllable_Video_Generation_CVPR_2018_paper.pdf)|[【Project Page】](https://github.com/zekunhao1995/ControllableVideoGen)|
 
-#### [1.3.11 Video saliency & gaze prediction](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T012-Video%20saliency%20%26%20gaze%20prediction.md)
+#### 1.3.11 Video saliency & gaze prediction
 
-#### [1.3.12 Video pedestrian tasks](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T013-Video%20pedestrian%20tasks.md)
+|Paper|Extra Link|
+| :--: |:--: |
+|【CVPR'18】[Cube Padding for Weakly-Supervised Saliency Prediction in 360° Videos](https://arxiv.org/abs/1806.01320)|[【Project Page】](https://github.com/hsientzucheng/CP-360-Weakly-Supervised-Saliency)|
+|【CVPR'18】[Gaze Prediction in Dynamic 360deg Immersive Videos](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2529.pdf)|[【Project Page】](https://github.com/xuyanyu-shh/VR-EyeTracking)|
+|【CVPR'18】[Revisiting Video Saliency: A Large-scale Benchmark and a New Model](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Revisiting_Video_Saliency_CVPR_2018_paper.pdf)|[【Project Page】](https://mmcheng.net/zh/videosal/)[【Blog(Chinese)】](https://blog.csdn.net/weixin_38682454/article/details/88530234)|
+|【CVPR'18】[Flow Guided Recurrent Neural Encoder for Video Salient Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Flow_Guided_Recurrent_CVPR_2018_paper.pdf)|[【Blog(Chinese)1】](https://blog.csdn.net/Dorothy_Xue/article/details/83042331)[【Blog(Chinese)2】](https://www.jianshu.com/p/056353117ea4)|
+|【CVPR'18】[Going from Image to Video Saliency: Augmenting Image Salience with Dynamic Attentional Push](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gorji_Going_From_Image_CVPR_2018_paper.pdf)|[【Blog(Chinese)】](https://blog.csdn.net/Dorothy_Xue/article/details/82750300)|
 
-#### [1.3.13 Video frame interpolation](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T014-Video%20frame%20interpolation.md)
+|Reference|
+| :--: |
+|【CSDN】[视觉显著性检测](https://blog.csdn.net/u012507022/article/details/52863461)|
+
+#### 1.3.12 Video pedestrian tasks
+
+|Paper|Extra Link|
+| :--: |:--: |
+|【CVPR'18】[Detect-and-Track: Efficient Pose Estimation in Videos](https://arxiv.org/abs/1712.09184)|[【Project Page】](https://github.com/facebookresearch/DetectAndTrack)[【Blog(Chinese)】](https://blog.csdn.net/m0_37644085/article/details/82924949)|
+|【CVPR'18】[Diversity Regularized Spatiotemporal Attention for Video-based Person Re-identification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Diversity_Regularized_Spatiotemporal_CVPR_2018_paper.pdf)|[【Project Page(Uncompleted)】](https://github.com/ShuangLI59/Diversity-Regularized-Spatiotemporal-Attention)[【Blog(Chinese)1】](https://blog.csdn.net/baidu_39622935/article/details/84349093)[【Blog(Chinese)2】](https://zhuanlan.zhihu.com/p/35460367)|
+|【CVPR'18】[Video Person Re-identification with Competitive Snippet-similarity Aggregation and Co-attentive Snippet Embedding](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Video_Person_Re-Identification_CVPR_2018_paper.pdf)|[【Project Page】](https://github.com/dapengchen123/video_reid)[【Blog(Chinese)】](https://blog.csdn.net/Coder_XiaoHui/article/details/81122373)|
+|【CVPR'18】[Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identification by Stepwise Learning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Exploit_the_Unknown_CVPR_2018_paper.pdf)|[【Project Page】](https://github.com/Yu-Wu/Exploit-Unknown-Gradually)[【Blog(Chinese)】](https://blog.csdn.net/NGUever15/article/details/88930864)|
+
+|Reference|
+| :--: |
+|【知乎】[基于深度学习的行人重识别研究综述](https://zhuanlan.zhihu.com/p/31921944)|
+
+#### 1.3.13 Video frame interpolation
 
 |Paper|Extra Link|
 | :--: |:--: |
