@@ -1,5 +1,9 @@
 # CV-Learning-Everyday
 
+The README file mainly contains papers and related links.
+
+The reading notes of some papers will be published in the [issue section](https://github.com/huuuuusy/CV-Learning-Everyday/issues) and marked with different labels. You are welcome to discuss with me under the issue secion if you have interest in this paper.
+
 ## 1. Video
 
 ### [1.1 Dataset](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/000-dataset.md)
@@ -286,3 +290,4 @@
 |Reference|
 | :--: |
 |【GitHub】[Video-Enhancement](https://github.com/yulunzhang/video-enhancement)|
+
