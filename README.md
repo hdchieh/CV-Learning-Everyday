@@ -24,7 +24,7 @@ The reading notes and summary of some papers will be published in the [***issue 
 |List|Part|
 | :--: |:--: |
 |[Multitask learning](https://github.com/huuuuusy/CV-Learning-Everyday/issues/5)|[【Paper】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/5#issuecomment-520128862)[【Reference】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/5#issuecomment-520128875)|
-|[Video summarization](https://github.com/huuuuusy/CV-Learning-Everyday/issues/6)|[【Paper】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/6#issuecomment-520129159)【Reference】(https://github.com/huuuuusy/CV-Learning-Everyday/issues/6#issuecomment-520129190)|
+|[Video summarization](https://github.com/huuuuusy/CV-Learning-Everyday/issues/6)|[【Paper】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/6#issuecomment-520129159)[【Reference】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/6#issuecomment-520129190)|
 |[Video object detection](https://github.com/huuuuusy/CV-Learning-Everyday/issues/7)|[【Paper】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/7#issuecomment-520129563)[【Reference】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/7#issuecomment-520129587)|
 |[Video prediction](https://github.com/huuuuusy/CV-Learning-Everyday/issues/8)|[【Paper】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/8#issuecomment-520130004)[【Reference】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/8#issuecomment-520130037)|
 |[Video semantic segmentation](https://github.com/huuuuusy/CV-Learning-Everyday/issues/9)|[【Paper】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/9#issuecomment-520130345)[【Reference】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/9#issuecomment-520130352)|
