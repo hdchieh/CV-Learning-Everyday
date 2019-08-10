@@ -2,7 +2,7 @@
 
 The README file mainly contains papers and related links.
 
-The reading notes of some papers will be published in the [issue section](https://github.com/huuuuusy/CV-Learning-Everyday/issues) and marked with different labels. You are welcome to discuss with me under the issue secion if you have interest in this paper.
+The reading notes and summary of some papers will be published in the [issue section](https://github.com/huuuuusy/CV-Learning-Everyday/issues) and marked with different labels. You are welcome to discuss with me under the issue secion if you have interest in this paper.
 
 ## 1. Video
 
