@@ -8,118 +8,23 @@ The reading notes and summary of some papers will be published in the [issue sec
 
 ### [1.1 Dataset](https://github.com/huuuuusy/CV-Learning-Everyday/issues/3)
 
-|Dataset|Paper|
-|:--: |:--: |
-|[HMDB-51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)|【ICCV'11】[HMDB: A large video database for human motion recognition.](https://dspace.mit.edu/handle/1721.1/69981)|
-|[UCF-101](https://www.crcv.ucf.edu/data/UCF101.php)|【CoRR'12】[UCF101: A dataset of 101 human action classes from videos in the wild.](https://arxiv.org/abs/1212.0402)|
-|[Sports-1M](https://cs.stanford.edu/people/karpathy/deepvideo/classes.html)|【CVPR'14】[Large-scale video classification with convolutional neural networks.](http://vision.stanford.edu/pdf/karpathy14.pdf)|
-|[Charades](https://allenai.org/plato/charades/)|【ECCV'16】[Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding](https://arxiv.org/abs/1604.01753)|
-|[ActivityNet](http://activity-net.org/)|【CVPR'15】[A large-scale video benchmark for human activity understanding.](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Heilbron_ActivityNet_A_Large-Scale_2015_CVPR_paper.pdf)|
-|[Kinetics](https://deepmind.com/research/open-source/open-source-datasets/kinetics/)|【CoRR'17】[The Kinetics human action video dataset](https://arxiv.org/pdf/1705.06950.pdf)|
-|[YouTube-8M](https://research.google.com/youtube8m/)|【CoRR'16】[YouTube-8M: A large-scale video classification benchmark](https://arxiv.org/pdf/1609.08675.pdf)|
-|[Something-something](https://20bn.com/datasets/something-something)|【ICCV'17】[The "something something" video database for learning and evaluating visual common sense](https://arxiv.org/abs/1706.04261)|
+### [1.2 Method](https://github.com/huuuuusy/CV-Learning-Everyday/issues/4)
 
-### 1.2 Method
-
-#### [1.2.1 Classical methods](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/F001-Classical%20methods.md)
-
-|Paper|Extra Link|
-| :--: |:--: |
-|【IJCV'13】[H. Wang, et al. Dense trajectories and motion boundary descriptors for action recognition](https://hal.inria.fr/hal-00803241/PDF/IJCV.pdf)||
-|【ICCV'13】[H. Wang and C. Schmid. Action recognition with improved trajectories](http://lear.inrialpes.fr/people/wang/download/iccv13_poster_final.pdf)||
-
-#### [1.2.2 Frame-by-frame processing fusion](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/F002-Frame-by-frame%20processing%20fusion.md)
-
-|Paper|Extra Link|
-| :--: |:--: |
-|【CVPR'14】[A. Karpathy, et al. Large-scale video classification with convolutional neural networks.](http://lear.inrialpes.fr/people/wang/download/iccv13_poster_final.pdf)||
-|【CVPR'11】[Le, et al. Learning hierarchical invariant spatio-temporal features for action recognition with independent subspace analysis.](http://ai.stanford.edu/~quocle/LeZouYeungNg11.pdf)||
-|【CVPR'15】[J. Y.-H. Ng, et al. Beyond short snippets: Deep networks for video classification.](https://arxiv.org/abs/1503.08909)||
-|【ICML'16.】[B. Fernando and S. Gould. Learning end-to-end video classification with rank-pooling.](https://users.cecs.anu.edu.au/~sgould/papers/icml16-vidClassification.pdf)||
-|【TAC'17】[X.-S. Wei, et al. Deep bimodal regression of apparent personality traits from short video sequences.](https://www.researchgate.net/publication/320366199_Deep_Bimodal_Regression_of_Apparent_Personality_Traits_from_Short_Video_Sequences)||
-|【CVPR'17】[A. Kar, et al. AdaScan: Adaptive scan pooling in deep convolutional neural networks for human action recognition in videos.](https://arxiv.org/pdf/1611.08240.pdf)||
-|[M. Zolfaghari, et al. ECO: Efficient Convolutional network for Online video understanding.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mohammadreza_Zolfaghari_ECO_Efficient_Convolutional_ECCV_2018_paper.pdf)||
-
-#### [1.2.3 ConvLSTM](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/F003-ConvLSTM.md)
-
-|Paper|Extra Link|
-| :--: |:--: |
-|【CVPR'15】[J. Y.-H. Ng, et al. Beyond short snippets: Deep networks for video classification.](https://arxiv.org/abs/1503.08909)||
-|【CVPR'15】[J. Donahue, et al. Long-term recurrent convolutional networks for visual recognition and description.](https://arxiv.org/abs/1411.4389)||
-|【ICCV'17】[W. Du, et al. RPAN: An end-to-end recurrent pose-attention network for action recognition in videos.](https://www.sciencedirect.com/science/article/pii/S0031320319301098)||
-
-#### [1.2.4 3D convolution](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/F004-3D%20convolution.md)
-
-|Paper|Extra Link|
-| :--: |:--: |
-|【HBU Workshop'11】[M. Baccouche, et al. Sequential deep learning for human action recognition.](https://liris.cnrs.fr/Documents/Liris-5228.pdf)||
-|【TPAMI'13】[S. Ji, et al. 3D convolutional neural networks for human action recognition.](https://ieeexplore.ieee.org/document/6165309/)||
-|【ICCV'15】[D. Tran, et al. Learning spatio-temporal features with 3D convolutional networks.](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf)||
-|【ICCV'15】[L. Sun, et al. Human action recognition using factorized spatio-temporal convolutional networks.](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Sun_Human_Action_Recognition_ICCV_2015_paper.pdf)||
-|【CVPR'17】[J. Carreira and A. Zisserman. Quo vadis, action recognition? A new model and the Kinetics dataset.](https://arxiv.org/pdf/1705.07750.pdf)||
-|【ICCV'17】[Z. Qiu, et al. Learning spatio-temporal representation with pseudo-3D residual networks.](http://openaccess.thecvf.com/content_ICCV_2017/papers/Qiu_Learning_Spatio-Temporal_Representation_ICCV_2017_paper.pdf)||
-|【CVPR'18】[D. Tran, et al. A closer look at spatio-temporal convolutions for action recognition.](https://arxiv.org/pdf/1711.11248.pdf)||
-|【CVPR'17】[C. Lea, et al. Temporal convolutional networks for action segmentation and detection.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lea_Temporal_Convolutional_Networks_CVPR_2017_paper.pdf)||
-|【CVPR'18】[L. Wang, et al. Appearance-and-relation networks for video classfication.](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Appearance-and-Relation_Networks_for_CVPR_2018_paper.pdf)||
-|【CVPR'18】[K. Hara, et al. Can spatio-temporal 3D CNNs retrace the history of 2D CNNs and ImageNet?](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hara_Can_Spatiotemporal_3D_CVPR_2018_paper.pdf)||
-|【CVPR'18】[X. Wang, et al. Non-local neural networks.](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf)||
-
-#### [1.2.5 Two-stream](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/F005-Two-stream.md)
-
-|Paper|Extra Link|
-| :--: |:--: |
-|【NIPS'14】[K. Simonyan and A. Zisserman. Two-stream convolutional networks for action recognition in videos.](https://arxiv.org/abs/1406.2199)||
-|【CVPR'15】[L. Wang, et al. Action recognition with trajectory-pooled deep-convolutional descriptors.](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Action_Recognition_With_2015_CVPR_paper.pdf)||
-|【CVPR'16】[C. Feichtenhofer, et al. Convolutional two-stream network fusion for video action recognition.](https://arxiv.org/pdf/1604.06573.pdf)||
-|【NIPS'16】[Spatiotemporal Residual Networks for Video Action Recognition](https://arxiv.org/abs/1611.02155)||
-|【CVPR'17】[C. Feichtenhofer, et al. Spatio-temporal multiplier networks for video action recognition.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Feichtenhofer_Spatiotemporal_Multiplier_Networks_CVPR_2017_paper.pdf)||
-|【ECCV'16】[L. Wang, et al. Temporal segment networks: Towards good practices for deep action recognition.](https://wanglimin.github.io/papers/WangXWQLTV_ECCV16.pdf)||
-|【CVPR'17】[Z. Lan, et al. Deep local video feature for action recognition.](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w14/papers/Lan_Deep_Local_Video_CVPR_2017_paper.pdf)||
-|【CVPR'17】[R. Girdhar, et al. ActionVLAD: Learning spatio-temporal aggregation for action recognition.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Girdhar_ActionVLAD_Learning_Spatio-Temporal_CVPR_2017_paper.pdf)||
-|【CVPR'17】[G. A. Sigurdsson, et al. Asynchronous temporal fields for action recognition.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sigurdsson_Asynchronous_Temporal_Fields_CVPR_2017_paper.pdf)||
-|【CVPR'16】[W. Zhu, et al. A key volume mining deep framework for action recognition.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_A_Key_Volume_CVPR_2016_paper.pdf)||
-|【CVPR'16】[Y. Wang, et al. Spatio-temporal pyramid network for video action recognition.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Spatiotemporal_Pyramid_Network_CVPR_2017_paper.pdf)||
-|【CVPR'17】[A. Diba, et al. Deep temporal linear encoding networks.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Diba_Deep_Temporal_Linear_CVPR_2017_paper.pdf)||
-|【NIPS'17】[R. Girdhar and D. Ramanan. Attentional pooling for action recognition.](https://rohitgirdhar.github.io/AttentionalPoolingAction/)||
-|【CVPR'17】[I. C. Duta, et al. Spatio-temporal vector of locally max-pooled features for action recognition in videos.](https://www.researchgate.net/publication/315841539_Spatio-Temporal_Vector_of_Locally_Max_Pooled_Features_for_Action_Recognition_in_Videos)||
-|【CVPR'18】[C.-Y. Wu, et al. Compressed video action recognition.](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Compressed_Video_Action_CVPR_2018_paper.pdf)||
-|【ICCV'13】[P. Weinzaepfel, et al. DeepFlow: Large displacement optical flow with deep matching.](https://hal.inria.fr/hal-00873592/document/)||
-|【ICCV'15】[A. Dosovitskiy, et al. FlowNet: Learning optical flow with convolutional networks.](http://openaccess.thecvf.com/content_iccv_2015/papers/Dosovitskiy_FlowNet_Learning_Optical_ICCV_2015_paper.pdf)||
-|【CVPR'17】[E. Ilg, et al. FlowNet 2.0: Evolution of optical flow estimation with deep networks.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ilg_FlowNet_2.0_Evolution_CVPR_2017_paper.pdf)||
-
-#### 1.2.6 Reference
-
-|Reference|
+|List|
 | :--: |
-|【知乎】[视频理解近期研究进展](https://zhuanlan.zhihu.com/p/36330561)|
-|【知乎】[计算机视觉中video understanding领域有什么研究方向和比较重要的成果？](https://www.zhihu.com/question/64021205)|
+|[Classical methods](https://github.com/huuuuusy/CV-Learning-Everyday/issues/4#issuecomment-520127495)|
+|[Frame-by-frame processing fusion](https://github.com/huuuuusy/CV-Learning-Everyday/issues/4#issuecomment-520127710)|
+|[ConvLSTM](https://github.com/huuuuusy/CV-Learning-Everyday/issues/4#issuecomment-520127786)|
+|[3D convolution](https://github.com/huuuuusy/CV-Learning-Everyday/issues/4#issuecomment-520127897)|
+|[Two-stream](https://github.com/huuuuusy/CV-Learning-Everyday/issues/4#issuecomment-520127980)|
+|[Reference](https://github.com/huuuuusy/CV-Learning-Everyday/issues/4#issuecomment-520128071)|
 
 ### 1.3 Task
 
-#### [1.3.1 Multitask learning](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T002-Multitask%20Learning.md)
-
-|Paper|Extra Link|
-| :--: |:--: |
-|【CVPR'18】[Visual to Sound: Generating Natural Sound for Videos in the Wild](https://arxiv.org/abs/1712.01393)|[【Project Page】](http://bvision11.cs.unc.edu/bigpen/yipin/visual2sound_webpage/visual2sound.html)[【Blog(Chinese)】](http://www.sohu.com/a/209593882_610300)|
-
-|Reference|
+|List|
 | :--: |
-|【知乎】[模型汇总-14 多任务学习-Multitask Learning概述](https://zhuanlan.zhihu.com/p/27421983)|
-|【知乎】[一箭N雕：多任务深度学习实战](https://zhuanlan.zhihu.com/p/22190532)|
-|【机器之心】[共享相关任务表征，一文读懂深度神经网络多任务学习](https://www.jiqizhixin.com/articles/2017-06-23-5)|
-
-#### [1.3.2 Video summarization](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T003-Video%20summarization.md)
-
-|Paper|Extra Link|
-| :--: |:--: |
-|【CVPR'18】[Viewpoint-aware Video Summarization](https://arxiv.org/abs/1804.02843)||
-|【CVPR'18】[HSA-RNN: Hierarchical Structure-Adaptive RNN for Video Summarization](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_HSA-RNN_Hierarchical_Structure-Adaptive_CVPR_2018_paper.pdf)|[【Blog(Chinese)】](https://zhuanlan.zhihu.com/p/67510393)|
-|【CVPR'18】[FFNet: Video Fast-Forwarding via Reinforcement Learning](https://arxiv.org/abs/1805.02792)||
-|【CVPR'18】[A Memory Network Approach for Story-based Temporal Summarization of 360° Videos](https://arxiv.org/abs/1805.02838)||
-
-|Reference|
-| :--: |
-|【机器之心】[深度学习之视频摘要简述](https://blog.csdn.net/Uwr44UOuQcNsUQb60zk2/article/details/78869193)|
+|[Multitask learning](https://github.com/huuuuusy/CV-Learning-Everyday/issues/5)|
+|[Video summarization](https://github.com/huuuuusy/CV-Learning-Everyday/issues/6)|
 
 #### [1.3.3 Video object detection](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/T004-Video%20object%20detection.md)
 
