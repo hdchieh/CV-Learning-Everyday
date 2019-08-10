@@ -6,7 +6,7 @@ The reading notes and summary of some papers will be published in the [issue sec
 
 ## 1. Video
 
-### [1.1 Dataset](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/video-based/000-dataset.md)
+### [1.1 Dataset](https://github.com/huuuuusy/CV-Learning-Everyday/issues/3)
 
 |Dataset|Paper|
 |:--: |:--: |
