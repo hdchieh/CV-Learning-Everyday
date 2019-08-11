@@ -27,7 +27,11 @@ The reading notes and summary of some papers will be published in the [***issue 
 |[Two-stream](https://github.com/huuuuusy/CV-Learning-Everyday/issues/4#issuecomment-520127980)|
 |[Reference](https://github.com/huuuuusy/CV-Learning-Everyday/issues/4#issuecomment-520128071)|
 
-### 1.3 Task
+### 1.3 Column
+
+
+
+### 1.4 Summary
 
 |List|Part|
 | :--: |:--: |
@@ -44,6 +48,7 @@ The reading notes and summary of some papers will be published in the [***issue 
 |[Video question answer](https://github.com/huuuuusy/CV-Learning-Everyday/issues/15)|[【Paper】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/15#issuecomment-520196430)[【Reference】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/15#issuecomment-520196487)|
 |[Video Super Resolution](https://github.com/huuuuusy/CV-Learning-Everyday/issues/16)|[【Paper】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/16#issuecomment-520196651)[【Reference】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/16#issuecomment-520196663)|
 |[Video classification](https://github.com/huuuuusy/CV-Learning-Everyday/issues/17)|[【Paper】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/17#issuecomment-520196816)[【Reference】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/17#issuecomment-520196827)|
+
 
 ## 2. Image
 
