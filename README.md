@@ -6,11 +6,11 @@ The reading notes and summary of some papers will be published in the [***issue 
 
 |Classify|Label|
 | :--: |:--: |
-|[Video](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video)|[【Multitask Learning】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Multitask%20Learning)[【Video Caption】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Caption)[【Video Classification】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Classification)[【Video Frame Interpolation】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Frame%20Interpolation)[【Video Generation (GAN)】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Generation%20%28GAN%29)[【Video Object Detection】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Object%20Detection)[【Video Pedestrian】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Pedestrian)[【Video Prediction】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Prediction)[【Video Question Answer】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Question%20Answer)[【Video Saliency Prediction】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Saliency%20Prediction)[【Video Semantic Segmentation】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Semantic%20Segmentation)[【Video Summarization】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Summarization)[【Video Super Resolution】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Super%20Resolution)|
+|[Video](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video)|[【Multitask Learning】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Multitask%20Learning)<br>[【Video Caption】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Caption)<br>[【Video Classification】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Classification)<br>[【Video Frame Interpolation】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Frame%20Interpolation)<br>[【Video Generation (GAN)】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Generation%20%28GAN%29)<br>[【Video Object Detection】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Object%20Detection)<br>[【Video Pedestrian】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Pedestrian)<br>[【Video Prediction】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Prediction)<br>[【Video Question Answer】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Question%20Answer)<br>[【Video Saliency Prediction】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Saliency%20Prediction)<br>[【Video Semantic Segmentation】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Semantic%20Segmentation)<br>[【Video Summarization】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Summarization)<br>[【Video Super Resolution】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Super%20Resolution)|
 |[Image](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Image)|[【Color Constancy】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Color%20Constancy)|
 |[Dataset](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Dataset)||
-|Conference|[【CVPR】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/CVPR)[【ICCV】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/ICCV)|
-|Task|[【Paper Reading】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Paper%20Reading)[【Summary】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Summary)|
+|Conference|[【CVPR】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/CVPR)<br>[【ICCV】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/ICCV)|
+|Task|[【Paper Reading】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Paper%20Reading)<br>[【Summary】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Summary)|
 
 ## 1. Video
 
@@ -45,3 +45,10 @@ The reading notes and summary of some papers will be published in the [***issue 
 |[Video Super Resolution](https://github.com/huuuuusy/CV-Learning-Everyday/issues/16)|[【Paper】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/16#issuecomment-520196651)[【Reference】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/16#issuecomment-520196663)|
 |[Video classification](https://github.com/huuuuusy/CV-Learning-Everyday/issues/17)|[【Paper】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/17#issuecomment-520196816)[【Reference】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/17#issuecomment-520196827)|
 
+## 2. Image
+
+## 3. Paper Reading Notes
+
+|Paper|Label|
+|:--: |:--: |
+|【CVPR'19】Quasi-unsupervised Color Constancy||
