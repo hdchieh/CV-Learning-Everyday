@@ -29,7 +29,7 @@ The reading notes and summary of some papers will be published in the [***issue 
 
 ### 1.3 Column
 
-
+#### 1.3.1 Tracking
 
 ### 1.4 Summary
 
@@ -49,8 +49,11 @@ The reading notes and summary of some papers will be published in the [***issue 
 |[Video Super Resolution](https://github.com/huuuuusy/CV-Learning-Everyday/issues/16)|[【Paper】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/16#issuecomment-520196651)[【Reference】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/16#issuecomment-520196663)|
 |[Video classification](https://github.com/huuuuusy/CV-Learning-Everyday/issues/17)|[【Paper】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/17#issuecomment-520196816)[【Reference】](https://github.com/huuuuusy/CV-Learning-Everyday/issues/17#issuecomment-520196827)|
 
-
 ## 2. Image
+
+### 2.1 Column
+
+#### 2.1.1 Color Constancy
 
 ## 3. Paper Reading Notes
 
