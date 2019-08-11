@@ -4,6 +4,14 @@ The README file mainly contains papers and related links.
 
 The reading notes and summary of some papers will be published in the [***issue section***](https://github.com/huuuuusy/CV-Learning-Everyday/issues) and marked with different labels. You are welcome to discuss with me under the issue secion if you have interest in this paper.
 
+|Classify|Label|
+| :--: |:--: |
+|[Video](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video)|[【Multitask Learning】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Multitask%20Learning)[【Video Caption】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Caption)[【Video Classification】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Classification)[【Video Frame Interpolation】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Frame%20Interpolation)[【Video Generation (GAN)】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Generation%20%28GAN%29)[【Video Object Detection】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Object%20Detection)[【Video Pedestrian】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Pedestrian)[【Video Prediction】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Prediction)[【Video Question Answer】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Question%20Answer)[【Video Saliency Prediction】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Saliency%20Prediction)[【Video Semantic Segmentation】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Semantic%20Segmentation)[【Video Summarization】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Summarization)[【Video Super Resolution】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Super%20Resolution)|
+|[Image](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Image)|[【Color Constancy】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Color%20Constancy)|
+|[Dataset](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Dataset)||
+|Conference|[【CVPR】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/CVPR)[【ICCV】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/ICCV)|
+|Task|[【Paper Reading】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Paper%20Reading)[【Summary】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Summary)|
+
 ## 1. Video
 
 ### [1.1 Dataset](https://github.com/huuuuusy/CV-Learning-Everyday/issues/3)
