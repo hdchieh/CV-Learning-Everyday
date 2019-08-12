@@ -10,7 +10,7 @@ The reading notes and summary of some papers will be published in the [***issue 
 |[【Image】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Image)|[【Color Constancy】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Color%20Constancy)|
 |[【Dataset】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Dataset)||
 |Conference|[【CVPR】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/CVPR)<br>[【ICCV】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/ICCV)|
-|Task|[【Paper Reading】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Paper%20Reading)<br>[【Summary】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Summary)<br>[【Column】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Column)|
+|Task|[【Column】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Column)<br>[【Paper Reading】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Paper%20Reading)<br>[【Summary】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Summary)|
 
 ## 1. Video
 
