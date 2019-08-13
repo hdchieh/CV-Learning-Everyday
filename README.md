@@ -30,17 +30,13 @@ The reading notes and summary of some papers will be published in the [***issue 
 
 ### 1.3 Column
 
-#### 1.3.1 Video Tracking
+#### [Video Tracking](https://github.com/huuuuusy/CV-Learning-Everyday/issues/18)
 
-##### [Column](https://github.com/huuuuusy/CV-Learning-Everyday/issues/18)
+- RoadMap
+![image](https://user-images.githubusercontent.com/32117906/62909573-b380cd00-bdaf-11e9-8ce0-495777184f02.png)
+Image create from [Dr. Wang Qiang](https://github.com/foolwood).
 
-##### RoadMap
-
-![](https://embed.coggle.it/diagram/XVIbshtKQFTxfGYL/4602a789501b91b61d370a5b3559b8579019c4e76d8f527aa0171eb528b6a881)
-
-#### 1.3.2 Correlation Filters
-
-##### [Column](https://github.com/huuuuusy/CV-Learning-Everyday/issues/19)
+#### [Correlation Filters](https://github.com/huuuuusy/CV-Learning-Everyday/issues/19)
 
 ### 1.4 Paper Summary
 
