@@ -11,7 +11,7 @@ The reading notes and summary of some papers will be published in the [***issue 
 |Method|[【Correlation Filters】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Correlation%20Filters)|
 |[【Dataset】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Dataset)||
 |Conference|[【CVPR】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/CVPR)<br>[【ICCV】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/ICCV)|
-|Task|[【Column】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Column)<br>[【Paper Reading】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Paper%20Reading)<br>[【Summary】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Summary)|
+|Task|[【Column】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Column)<br>[【Paper Reading】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Paper%20Reading)<br>[【Roadmap】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Roadmap)<br>[【Summary】](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Summary)|
 
 ## 1. Video
 
@@ -32,9 +32,10 @@ The reading notes and summary of some papers will be published in the [***issue 
 
 #### [Visual Trackers](https://github.com/huuuuusy/CV-Learning-Everyday/issues/18)
 
-- RoadMap
+- **RoadMap**
 ![image](https://user-images.githubusercontent.com/32117906/62909573-b380cd00-bdaf-11e9-8ce0-495777184f02.png)
 Image create from [Dr. Wang Qiang](https://github.com/foolwood).
+The re-organizing version of roadmap can be found [here](https://github.com/huuuuusy/CV-Learning-Everyday/issues/21)(I've added the link of each tracker and organized them based on Dr. Wang Qiang's version).
 
 #### [Correlation Filters](https://github.com/huuuuusy/CV-Learning-Everyday/issues/19)
 
