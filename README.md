@@ -1,26 +1,20 @@
 # CV-Learning-Everyday
 
-The README file mainly contains papers and related links.
+本项目是对于CV领域一些论文的链接汇总和相关论文的学习笔记链接。
 
-The reading notes and summary of some papers will be published in the [***issue section***](https://github.com/huuuuusy/CV-Learning-Everyday/issues) and marked with different labels. You are welcome to discuss with me under the issue secion if you have interest in this paper.
+## 1 研究领域
 
-|Classify|Label|
-| :--: |:--: |
-|[Video](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video)|[Multitask Learning](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Multitask%20Learning)<br>[Video Caption](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Caption)<br>[Video Classification](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Classification)<br>[Video Frame Interpolation](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Frame%20Interpolation)<br>[Video Generation (GAN)](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Generation%20%28GAN%29)<br>[Video Object Detection](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Object%20Detection)<br>[Video Pedestrian](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Pedestrian)<br>[Video Prediction](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Prediction)<br>[Video Question Answer](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Question%20Answer)<br>[Video Saliency Prediction](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Saliency%20Prediction)<br>[Video Semantic Segmentation](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Semantic%20Segmentation)<br>[Video Summarization](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Summarization)<br>[Visual Tracker](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Visual%20Tracker)<br>[Video Super Resolution](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Video%20Super%20Resolution)|
-|[Image](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Image)|[Color Constancy](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Color%20Constancy)|
-|Method|[Correlation Filters](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Correlation%20Filters)|
-|[Dataset](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Dataset)||
-|Conference|[CVPR](https://github.com/huuuuusy/CV-Learning-Everyday/labels/CVPR)<br>[ICCV](https://github.com/huuuuusy/CV-Learning-Everyday/labels/ICCV)<br>[ECCV](https://github.com/huuuuusy/CV-Learning-Everyday/labels/ECCV)|
-|Task|[Column](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Column)<br>[Paper Reading](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Paper%20Reading)<br>[Roadmap](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Roadmap)<br>[Summary](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Summary)|
-|Year|[2019](https://github.com/huuuuusy/CV-Learning-Everyday/labels/2019)<br>[2018](https://github.com/huuuuusy/CV-Learning-Everyday/labels/2018)<br>[2017](https://github.com/huuuuusy/CV-Learning-Everyday/labels/2017)<br>[2016](https://github.com/huuuuusy/CV-Learning-Everyday/labels/2016)<br>[Old Method](https://github.com/huuuuusy/CV-Learning-Everyday/labels/Old%20Method)|
+### 1.1 Visual Object Tracking 
 
-## 1. Video-Related Summary
+- [视频目标跟踪调研](https://app.yinxiang.com/fx/a9e4044a-fec9-4487-861b-31665a60b2d4)
+- [VOT中的相关滤波](https://app.yinxiang.com/fx/e8fd2073-045f-4596-9f0b-290bc7c8f6aa)
+- [Visual Tracker Roadmap](https://app.yinxiang.com/fx/68d48ad7-a547-4b4d-93d3-24d2f808697c)
 
-|List|Part|
-| :--: |:--: |
-|[Datasets](https://github.com/huuuuusy/CV-Learning-Everyday/issues/3)||
-|[Methods](https://github.com/huuuuusy/CV-Learning-Everyday/issues/4)|[Classical methods](https://github.com/huuuuusy/CV-Learning-Everyday/issues/4#issuecomment-520127495)<br>[Frame-by-frame processing fusion](https://github.com/huuuuusy/CV-Learning-Everyday/issues/4#issuecomment-520127710)<br>[ConvLSTM](https://github.com/huuuuusy/CV-Learning-Everyday/issues/4#issuecomment-520127786)<br>[3D convolution](https://github.com/huuuuusy/CV-Learning-Everyday/issues/4#issuecomment-520127897)<br>[Two-stream](https://github.com/huuuuusy/CV-Learning-Everyday/issues/4#issuecomment-520127980)<br>[Reference](https://github.com/huuuuusy/CV-Learning-Everyday/issues/4#issuecomment-520128071)|
-|Tasks|[Multitask learning](https://github.com/huuuuusy/CV-Learning-Everyday/issues/5)<br>[Video summarization](https://github.com/huuuuusy/CV-Learning-Everyday/issues/6)<br>[Video object detection](https://github.com/huuuuusy/CV-Learning-Everyday/issues/7)<br>[Video prediction](https://github.com/huuuuusy/CV-Learning-Everyday/issues/8)<br>[Video semantic segmentation](https://github.com/huuuuusy/CV-Learning-Everyday/issues/9)<br>[Video caption](https://github.com/huuuuusy/CV-Learning-Everyday/issues/10)<br>[Video generation (GAN)](https://github.com/huuuuusy/CV-Learning-Everyday/issues/11)<br>[Video saliency prediction](https://github.com/huuuuusy/CV-Learning-Everyday/issues/12)<br>[Video pedestrian](https://github.com/huuuuusy/CV-Learning-Everyday/issues/13)<br>[Video frame interpolation](https://github.com/huuuuusy/CV-Learning-Everyday/issues/14)<br>[Video question answer](https://github.com/huuuuusy/CV-Learning-Everyday/issues/15)<br>[Video Super Resolution](https://github.com/huuuuusy/CV-Learning-Everyday/issues/16)<br>[Video classification](https://github.com/huuuuusy/CV-Learning-Everyday/issues/17)|
+## ２ 学习笔记＆总结
+
+- [视频任务数据集汇总](https://app.yinxiang.com/fx/1b78751c-4ee4-4fd9-8af7-c290a564b454)
+- [视频任务主要研究方法汇总](https://app.yinxiang.com/fx/beac307a-6274-4eca-a2fe-57cff95f455b)
+- [视频领域研究方向汇总－－以CVPR’18为例](https://app.yinxiang.com/fx/3e60567f-7968-44e6-a628-05e0d0c88510)
 
 ## 2. Research Area
 
@@ -38,7 +32,7 @@ The reading notes and summary of some papers will be published in the [***issue 
 
 - [Correlation Filters](https://github.com/huuuuusy/CV-Learning-Everyday/issues/19)
 
-## 3. Paper Reading Notes
+## 3 论文精读笔记
 
 |Paper|Reading Notes|
 |:--: |:--: |
