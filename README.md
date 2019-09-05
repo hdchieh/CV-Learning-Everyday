@@ -24,6 +24,12 @@
 
 ## 3 论文精读笔记
 
+### 3.1 视频类
+
+### 3.2 图像类
+
+### 3.3 基础理论
+
 |论文|笔记|日期|
 |:--: |:--: |:--: |
 |[【CVPR'19】Quasi-unsupervised Color Constancy](http://openaccess.thecvf.com/content_CVPR_2019/papers/Bianco_Quasi-Unsupervised_Color_Constancy_CVPR_2019_paper.pdf)|[Notes](https://github.com/huuuuusy/CV-Learning-Everyday/issues/2)|
