@@ -11,6 +11,7 @@
 |[视频目标跟踪调研](https://app.yinxiang.com/fx/a9e4044a-fec9-4487-861b-31665a60b2d4)|190905|
 |[VOT中的相关滤波](https://app.yinxiang.com/fx/e8fd2073-045f-4596-9f0b-290bc7c8f6aa)|190905|
 |[Visual Tracker Roadmap](https://app.yinxiang.com/fx/68d48ad7-a547-4b4d-93d3-24d2f808697c)|190905|
+|[目标跟踪评价指标汇总](https://app.yinxiang.com/fx/3b5de1b3-be67-4512-acc2-965b31c5113b)|190908|
 
 ## 2 学习笔记＆总结
 
