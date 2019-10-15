@@ -11,15 +11,15 @@ PPT文件夹包含读博组会时分享的PPT,一般以论文阅读笔记为主�
 ### 1.1 视频类
 
 |笔记|简介|
-|:--: |:--: |
+|:--: |简介|
 |[视频任务数据集汇总](https://app.yinxiang.com/fx/1b78751c-4ee4-4fd9-8af7-c290a564b454)|介绍视频类任务常见数据库|
 |[视频任务主要研究方法汇总](https://app.yinxiang.com/fx/beac307a-6274-4eca-a2fe-57cff95f455b)|总结视频相关的研究课题中从13年到18年的一些主要研究方法及论文链接|
 |[视频领域研究方向汇总－－以CVPR’18为例](https://app.yinxiang.com/fx/3e60567f-7968-44e6-a628-05e0d0c88510)|以CVPR’18的相关论文为例，对视频研究方向进行总结|
 
 #### 目标跟踪 
 
-|笔记|
-|:--: |
+|笔记|简介|
+|:--: |:--: |
 |[视频目标跟踪调研](https://app.yinxiang.com/fx/a9e4044a-fec9-4487-861b-31665a60b2d4)|对VOT从背景、难点、发展历史、现行方法等方面进行介绍|
 |[VOT中的相关滤波](https://app.yinxiang.com/fx/e8fd2073-045f-4596-9f0b-290bc7c8f6aa)|对VOT中相关滤波方法的发展进行介绍并列举经典的论文|
 |[Visual Tracker Roadmap](https://app.yinxiang.com/fx/68d48ad7-a547-4b4d-93d3-24d2f808697c)|根据王强博士的roadmap，提供VOT任务相关论文和数据库的链接|
