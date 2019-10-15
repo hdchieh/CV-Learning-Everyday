@@ -37,9 +37,9 @@ PPT文件夹包含读博组会时分享的PPT,一般以论文阅读笔记为主�
 
 |论文|关键词|笔记|
 |:--: |:--: |:--: |
-|[001-【CVPR'17】Fully Convolutional Color Constancy with Confidence-weighted Pooling](http://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_FC4_Fully_Convolutional_CVPR_2017_paper.pdf)|颜色恒常性|[190920-PPT-P34toP41](https://nbviewer.jupyter.org/github/huuuuusy/CV-Learning-Everyday/blob/master/PPT/190920.pdf)|
-|[002-【CVPR'19】Quasi-unsupervised Color Constancy](http://openaccess.thecvf.com/content_CVPR_2019/papers/Bianco_Quasi-Unsupervised_Color_Constancy_CVPR_2019_paper.pdf)|颜色恒常性|[190920-PPT-P42toP56](https://nbviewer.jupyter.org/github/huuuuusy/CV-Learning-Everyday/blob/master/PPT/190920.pdf)|
-|[003-【2018】Color Constancy by Rewighting Image Feature Maps](https://arxiv.org/pdf/1806.09248.pdf)|颜色恒常性|[190920-PPT-P57toP79](https://nbviewer.jupyter.org/github/huuuuusy/CV-Learning-Everyday/blob/master/PPT/190920.pdf)|
+|[001【CVPR'17】Fully Convolutional Color Constancy with Confidence-weighted Pooling](http://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_FC4_Fully_Convolutional_CVPR_2017_paper.pdf)|颜色恒常性|[190920-PPT-P34toP41](https://nbviewer.jupyter.org/github/huuuuusy/CV-Learning-Everyday/blob/master/PPT/190920.pdf)|
+|[002【CVPR'19】Quasi-unsupervised Color Constancy](http://openaccess.thecvf.com/content_CVPR_2019/papers/Bianco_Quasi-Unsupervised_Color_Constancy_CVPR_2019_paper.pdf)|颜色恒常性|[190920-PPT-P42toP56](https://nbviewer.jupyter.org/github/huuuuusy/CV-Learning-Everyday/blob/master/PPT/190920.pdf)|
+|[003【2018】Color Constancy by Rewighting Image Feature Maps](https://arxiv.org/pdf/1806.09248.pdf)|颜色恒常性|[190920-PPT-P57toP79](https://nbviewer.jupyter.org/github/huuuuusy/CV-Learning-Everyday/blob/master/PPT/190920.pdf)|
 
 ### 2.3 其他
 
