@@ -23,14 +23,13 @@ PPT文件夹包含读博组会时分享的PPT,一般以论文阅读笔记为主�
 |[视频目标跟踪调研](https://app.yinxiang.com/fx/a9e4044a-fec9-4487-861b-31665a60b2d4)|
 |[VOT中的相关滤波](https://app.yinxiang.com/fx/e8fd2073-045f-4596-9f0b-290bc7c8f6aa)|
 |[Visual Tracker Roadmap](https://app.yinxiang.com/fx/68d48ad7-a547-4b4d-93d3-24d2f808697c)|
-|[目标跟踪评价指标汇总](https://app.yinxiang.com/fx/3b5de1b3-be67-4512-acc2-965b31c5113b)|
+|[OTB和VOT评价指标汇总](https://app.yinxiang.com/fx/3b5de1b3-be67-4512-acc2-965b31c5113b)|
 
 ### 1.2 图像类
 
 #### 颜色恒常性
 
-
-## 2 论文精读笔记
+## 2 论文笔记
 
 ### 2.1 视频类
 
