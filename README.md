@@ -48,3 +48,5 @@ PPT文件夹包含读博组会时分享的PPT,一般以论文阅读笔记为主�
 |日期|主题|
 |:--: |:--: |
 |190920|[颜色恒常性](https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/PPT/190920.pdf)|
+
+<a href="https://github.com/huuuuusy/CV-Learning-Everyday/blob/master/PPT/190920.pdf" target="view_window">PPT</a>
